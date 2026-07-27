@@ -10,7 +10,7 @@ export const metadata = { title: "Contact Us", description: "Get in touch with V
 const depts = [
   { icon: ShoppingCart, t: "Sales & Enquiries", d: company.email, extra: company.phone },
   { icon: Headphones, t: "Customer Support", d: company.email2, extra: company.phone2 },
-  { icon: Building2, t: "Corporate Office", d: company.landline, extra: "Mon–Sat" },
+  { icon: Building2, t: "Corporate Office", extra: "Mon–Sat" },
 ];
 
 export default function Contact() {

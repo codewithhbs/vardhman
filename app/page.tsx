@@ -112,7 +112,7 @@ export default function Home() {
             </div>
           </Reveal>
           <div>
-            <SectionHeading eyebrow="Who We Are" title="A trusted name in industrial tapes & packaging" subtitle="Vardhman Packaging Ltd (Vardhman Tapes & Packaging) has been manufacturing and supplying quality-approved industrial tapes, foam and packaging materials since 1996." />
+            <SectionHeading eyebrow="Who We Are" title="A trusted name in industrial tapes & packaging" subtitle="Vardhman Enterprises (Vardhman Bhagwanshree Pvt. Ltd.) has been manufacturing and supplying quality-approved industrial tapes, foam and packaging materials since 1996." />
             <Reveal delay={0.1}>
               <p className="mt-5 text-black/60 leading-relaxed">
                 From BOPP carton-sealing tapes and double-sided bonding solutions to EPE/EVA foam profiles, backer rods and LDPE sheeting, our products are made from finest-quality raw materials with adhesive coating and finishing that follow strict industry standards. We serve FMCG, retail, construction, automotive and export clients with a commitment to quality, competitive pricing and timely delivery.

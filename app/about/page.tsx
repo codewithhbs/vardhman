@@ -35,7 +35,7 @@ export default function About() {
           <div>
             <SectionHeading eyebrow="Company Overview" title="Engineering trust into every product" />
             <div className="mt-5 space-y-4 text-black/60 leading-relaxed">
-              <p>Established in 1996, Vardhman Packaging Ltd — operating as Vardhman Tapes &amp; Packaging (Vardhman Bhagwanshree Pvt. Ltd.) — is a prominent manufacturer, supplier, importer and wholesaler of a quality-approved range of industrial tapes, foam and packaging materials.</p>
+              <p>Established in 1996, Vardhman Packaging Ltd — operating as Vardhman Enterprises (Vardhman Bhagwanshree Pvt. Ltd.) — is a prominent manufacturer, supplier, importer and wholesaler of a quality-approved range of industrial tapes, foam and packaging materials.</p>
               <p>All our products are made using finest-quality raw materials, adhesive coating and printing following industry standards. Our range is widely used across FMCG, retail, construction, automotive and export sectors, available in a variety of colours, textures, widths, lengths and thicknesses to suit each client's needs.</p>
               <p>Supported by a team of diligent professionals and modern infrastructure, we have earned the trust of a large base of loyal clients through timely delivery, a quality-proven range and a wide distribution network.</p>
             </div>

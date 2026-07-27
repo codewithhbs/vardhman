@@ -4,7 +4,7 @@ import { Send, CheckCircle2, Loader2 } from "lucide-react";
 
 type Props = { compact?: boolean; product?: string; title?: string };
 
-const WHATSAPP_NUMBER = "918043859260";
+const WHATSAPP_NUMBER = "919312706093";
 
 export default function EnquiryForm({
   compact = false,
