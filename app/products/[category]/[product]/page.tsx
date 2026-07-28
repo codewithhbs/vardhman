@@ -59,6 +59,17 @@ export default function ProductDetail({
     category: cat.name,
     brand: { "@type": "Brand", name: "Vardhman Packaging" },
     url: `${SITE_URL}/products/${cat.slug}/${p.slug}`,
+    ...(p.price
+      ? {
+          offers: {
+            "@type": "Offer",
+            priceCurrency: "INR",
+            price: p.price.replace(/[^\d.]/g, ""),
+            availability: "https://schema.org/InStock",
+            url: `${SITE_URL}/products/${cat.slug}/${p.slug}`,
+          },
+        }
+      : {}),
   };
 
   return (
@@ -114,6 +125,17 @@ export default function ProductDetail({
           <div>
             <span className="eyebrow">Product Overview</span>
             <h2 className="h-title text-3xl">{p.name}</h2>
+
+            {/* Price */}
+            {p.price && (
+              <div className="mt-4 flex items-baseline gap-2">
+                <span className="font-display text-3xl font-extrabold text-brand-orange">
+                  {p.price}
+                </span>
+                <span className="text-sm text-black/45">(approx.)</span>
+              </div>
+            )}
+
             <p className="mt-4 text-black/60 leading-relaxed">
               {p.blurb} Manufactured by Vardhman Packaging to consistent quality
               standards, this product is available in custom specifications to
@@ -182,6 +204,16 @@ export default function ProductDetail({
                       </td>
                     </tr>
                   ))}
+                  {p.price && (
+                    <tr>
+                      <td className="py-2.5 font-medium text-black/50">
+                        Price
+                      </td>
+                      <td className="py-2.5 text-right font-semibold text-brand-dark">
+                        {p.price} <span className="font-normal text-black/40">(approx.)</span>
+                      </td>
+                    </tr>
+                  )}
                   <tr>
                     <td className="py-2.5 font-medium text-black/50">
                       Category

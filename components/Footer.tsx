@@ -61,7 +61,7 @@ export default function Footer() {
         <div>
           <h4 className="font-display font-semibold text-white">Contact</h4>
           <ul className="mt-4 space-y-3.5 text-sm">
-            <li className="flex gap-3"><MapPin className="h-5 w-5 flex-none text-brand-yellow" /><span className="text-white/60">{company.address.line1}, {company.address.line2}, {company.address.city}, {company.address.state} – {company.address.zip}</span></li>
+            <li className="flex gap-3"><MapPin className="h-5 w-5 flex-none text-brand-yellow" /><span className="text-white/60">Ground Floor, Front Portion, Khasra No 71/1 Min, Alipur, Karnal Road, Central Delhi, New Delhi - 110036, Delhi, India</span></li>
             <li className="flex gap-3"><Phone className="h-5 w-5 flex-none text-brand-yellow" /><a href={`tel:${company.phoneRaw}`} className="text-white/60 hover:text-brand-yellow">{company.phone}</a></li>
             <li className="flex gap-3"><Mail className="h-5 w-5 flex-none text-brand-yellow" /><a href={`mailto:${company.email}`} className="text-white/60 hover:text-brand-yellow">{company.email}</a></li>
             <li className="flex gap-3"><Clock className="h-5 w-5 flex-none text-brand-yellow" /><span className="text-white/60">{company.hours}</span></li>
