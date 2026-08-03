@@ -49,6 +49,8 @@ export default function ProductDetail({
   const p = getProduct(params.category, params.product);
   if (!cat || !p) return notFound();
   const related = relatedProducts(cat.slug, p.slug, 3);
+  const highlights =
+    p.highlights && p.highlights.length > 0 ? p.highlights : cat.applications;
 
   const productSchema = {
     "@context": "https://schema.org",
@@ -127,14 +129,14 @@ export default function ProductDetail({
             <h2 className="h-title text-3xl">{p.name}</h2>
 
             {/* Price */}
-            {p.price && (
+            {/* {p.price && (
               <div className="mt-4 flex items-baseline gap-2">
                 <span className="font-display text-3xl font-extrabold text-brand-orange">
                   {p.price}
                 </span>
                 <span className="text-sm text-black/45">(approx.)</span>
               </div>
-            )}
+            )} */}
 
             <p className="mt-4 text-black/60 leading-relaxed">
               {p.blurb} Manufactured by Vardhman Packaging to consistent quality
@@ -164,6 +166,7 @@ export default function ProductDetail({
             </div>
 
             {/* Available sizes */}
+            {/*
             <div className="mt-8">
               <h3 className="flex items-center gap-2 font-display font-bold text-brand-dark">
                 <Layers className="h-5 w-5 text-brand-orange" /> Available Sizes
@@ -179,6 +182,7 @@ export default function ProductDetail({
                 ))}
               </div>
             </div>
+            */}
           </div>
         </div>
       </section>
@@ -204,7 +208,7 @@ export default function ProductDetail({
                       </td>
                     </tr>
                   ))}
-                  {p.price && (
+                  {/* {p.price && (
                     <tr>
                       <td className="py-2.5 font-medium text-black/50">
                         Price
@@ -213,7 +217,7 @@ export default function ProductDetail({
                         {p.price} <span className="font-normal text-black/40">(approx.)</span>
                       </td>
                     </tr>
-                  )}
+                  )} */}
                   <tr>
                     <td className="py-2.5 font-medium text-black/50">
                       Category
@@ -238,9 +242,10 @@ export default function ProductDetail({
             <div className="card h-full p-6">
               <h3 className="flex items-center gap-2 font-display font-bold text-brand-dark">
                 <Factory className="h-5 w-5 text-brand-orange" /> Applications
+                &amp; Highlights
               </h3>
               <ul className="mt-4 space-y-2.5">
-                {cat.applications.map((a) => (
+                {highlights.map((a) => (
                   <li
                     key={a}
                     className="flex items-start gap-2 text-sm text-black/65"
