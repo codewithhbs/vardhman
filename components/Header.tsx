@@ -12,7 +12,7 @@ const nav = [
   { label: "About", href: "/about" },
   { label: "Products", href: "/products", mega: true },
   { label: "Industries", href: "/industries" },
-  { label: "Infrastructure", href: "/infrastructure" },
+  // { label: "Infrastructure", href: "/infrastructure" },
   { label: "Quality", href: "/quality" },
   { label: "Blogs", href: "/blogs" },
   { label: "Contact", href: "/contact" },
@@ -53,8 +53,9 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-3">
             <Image src="/images/logo.jpeg" alt="Vardhman Packaging Ltd" width={48} height={48} className="h-11 w-auto lg:h-12" priority />
             <span className="leading-tight">
-              <span className="block font-display text-base font-extrabold tracking-tight text-brand-dark lg:text-lg">VARDHMAN <span className="text-brand-orange">PACKAGING</span></span>
-              <span className="block text-[10px] font-medium uppercase tracking-[0.18em] text-black/45">Tapes · Foam · Packaging</span>
+              {/* <span className="block font-display text-base font-extrabold tracking-tight text-brand-dark lg:text-lg">VARDHMAN <span className="text-brand-orange">PACKAGING</span></span> */}
+              <span className="block font-display font-extrabold tracking-tight text-brand-dark text-[13px] lg:text-[18px]">Vardhman Tapes & Packaging Pvt Ltd</span>
+              <span className="block text-[10px] font-medium uppercase tracking-[0.18em] text-black/45">Vardhman Enterprises</span>
             </span>
           </Link>
 
@@ -76,10 +77,10 @@ export default function Header() {
           </nav>
 
           <div className="flex items-center gap-2">
-            <button aria-label="Search" onClick={() => setSearch(true)} className="hidden h-10 w-10 items-center justify-center rounded-full text-brand-dark hover:bg-brand-gray sm:flex">
+            {/* <button aria-label="Search" onClick={() => setSearch(true)} className="hidden h-10 w-10 items-center justify-center rounded-full text-brand-dark hover:bg-brand-gray sm:flex">
               <Search className="h-5 w-5" />
-            </button>
-            <Link href="/enquiry" className="btn-primary hidden !px-5 !py-2.5 sm:inline-flex">Get a Quote</Link>
+            </button> */}
+            <Link href="/enquiry" className="btn-primary hidden !px-5 !py-2.5 sm:inline-flex text-nowrap">Get a Quote</Link>
             <button aria-label="Menu" onClick={() => setMobile(true)} className="flex h-10 w-10 items-center justify-center rounded-full text-brand-dark hover:bg-brand-gray lg:hidden">
               <Menu className="h-6 w-6" />
             </button>
@@ -111,7 +112,7 @@ export default function Header() {
       </header>
 
       {/* Search overlay */}
-      {search && (
+      {/* {search && (
         <div className="fixed inset-0 z-[60] flex items-start justify-center bg-black/40 p-6 pt-28 backdrop-blur-sm" onClick={() => setSearch(false)}>
           <div className="w-full max-w-xl rounded-2xl bg-white p-4 shadow-glow" onClick={(e) => e.stopPropagation()}>
             <div className="flex items-center gap-3 border-b border-black/10 pb-3">
@@ -126,7 +127,7 @@ export default function Header() {
             </div>
           </div>
         </div>
-      )}
+      )} */}
 
       {/* Mobile drawer */}
       <div className={`fixed inset-0 z-[70] lg:hidden ${mobile ? "" : "pointer-events-none"}`}>
