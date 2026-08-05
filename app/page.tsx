@@ -44,56 +44,6 @@ export default function Home() {
   return (
     <>
       {/* HERO */}
-      {/* <section className="relative overflow-hidden bg-brand-radial">
-        <div className="dotgrid absolute inset-0 opacity-60" />
-        <div className="container-x relative grid items-center gap-12 py-16 lg:grid-cols-2 lg:py-24">
-          <div>
-            <Reveal>
-              <span className="chip mb-5"><span className="h-1.5 w-1.5 rounded-full bg-brand-orange" /> Manufacturer & Supplier since {company.established}</span>
-            </Reveal>
-            <Reveal delay={0.05}>
-              <h1 className="h-title text-4xl leading-[1.1] sm:text-5xl lg:text-6xl">
-                Delivering <span className="bg-brand-gradient bg-clip-text text-transparent">Innovative Packaging</span> Solutions with Precision
-              </h1>
-            </Reveal>
-            <Reveal delay={0.1}>
-              <p className="mt-6 max-w-xl text-lg leading-relaxed text-black/60">
-                Premium industrial tapes, EPE & EVA foam, backer rods and packaging materials — engineered for performance and trusted by businesses across India.
-              </p>
-            </Reveal>
-            <Reveal delay={0.15}>
-              <div className="mt-8 flex flex-wrap gap-3">
-                <Link href="/products" className="btn-primary">Explore Products <ArrowRight className="h-4 w-4" /></Link>
-                <Link href="/enquiry" className="btn-outline">Get a Quote</Link>
-              </div>
-            </Reveal>
-            <Reveal delay={0.2}>
-              <div className="mt-10 grid max-w-lg grid-cols-3 gap-4">
-                {company.stats.slice(0, 3).map((s) => (
-                  <div key={s.label}>
-                    <div className="font-display text-3xl font-extrabold text-brand-orange"><Counter to={s.value} suffix={s.suffix} /></div>
-                    <div className="mt-1 text-xs font-medium text-black/50">{s.label}</div>
-                  </div>
-                ))}
-              </div>
-            </Reveal>
-          </div>
-          <Reveal delay={0.1} className="relative">
-            <div className="relative aspect-[4/5] overflow-hidden rounded-3xl shadow-glow sm:aspect-square">
-              <Image src="https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&w=1000&q=80" alt="Industrial packaging manufacturing" fill className="object-cover" priority sizes="(max-width:1024px) 100vw, 50vw" />
-              <div className="absolute inset-0 bg-gradient-to-tr from-brand-orange/20 to-transparent" />
-            </div>
-            <div className="glass absolute -bottom-5 -left-5 hidden items-center gap-3 p-4 shadow-card sm:flex">
-              <div className="flex h-11 w-11 items-center justify-center rounded-full bg-brand-gradient text-white"><ShieldCheck className="h-6 w-6" /></div>
-              <div><div className="font-display text-sm font-bold text-brand-dark">ISO-Aligned Quality</div><div className="text-xs text-black/50">Tested & inspected</div></div>
-            </div>
-            <div className="animate-floaty glass absolute -right-4 top-8 hidden items-center gap-3 p-4 shadow-card lg:flex">
-              <div className="flex h-11 w-11 items-center justify-center rounded-full bg-brand-yellow/20 text-brand-orange"><Award className="h-6 w-6" /></div>
-              <div><div className="font-display text-sm font-bold text-brand-dark">30+ Years</div><div className="text-xs text-black/50">of trust</div></div>
-            </div>
-          </Reveal>
-        </div>
-      </section> */}
       <HeroHome />
 
       {/* COMPANY OVERVIEW */}
