@@ -2089,9 +2089,9 @@ export const products: Product[] = [
       "Very useful for quick repairs and to protect components",
       "Sticks to rough and uneven indoor/outdoor surfaces — wood, stone, plaster, brick and metal",
     ],
-    "/product-img/2-inch-duct-tape.jpg",
+    "/product-img/2-Inch-duct-tape.jpg",
     [
-      "/product-img/2-inch-duct-tape.jpg",
+      "/product-img/2-Inch-duct-tape.jpg",
     ],
   ),
   P(
