@@ -6,6 +6,7 @@ import { usePathname } from "next/navigation";
 import { Menu, X, ChevronDown, Phone, Search, Mail } from "lucide-react";
 import { company } from "@/lib/company";
 import { categories } from "@/lib/products";
+import { useQuoteModal } from "./QuoteModalContext";
 
 const nav = [
   { label: "Home", href: "/" },
@@ -25,6 +26,7 @@ export default function Header() {
   const [mProducts, setMProducts] = useState(false);
   const [search, setSearch] = useState(false);
   const pathname = usePathname();
+  const { open: openQuote } = useQuoteModal();
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 20);
@@ -80,7 +82,7 @@ export default function Header() {
             {/* <button aria-label="Search" onClick={() => setSearch(true)} className="hidden h-10 w-10 items-center justify-center rounded-full text-brand-dark hover:bg-brand-gray sm:flex">
               <Search className="h-5 w-5" />
             </button> */}
-            <Link href="/enquiry" className="btn-primary hidden !px-5 !py-2.5 sm:inline-flex text-nowrap">Get a Quote</Link>
+            <button onClick={openQuote} className="btn-primary hidden !px-5 !py-2.5 sm:inline-flex text-nowrap">Get a Quote</button>
             <button aria-label="Menu" onClick={() => setMobile(true)} className="flex h-10 w-10 items-center justify-center rounded-full text-brand-dark hover:bg-brand-gray lg:hidden">
               <Menu className="h-6 w-6" />
             </button>
