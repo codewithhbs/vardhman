@@ -15,6 +15,7 @@ import FAQAccordion from "@/components/FAQAccordion";
 import CTASection from "@/components/CTASection";
 import EnquiryForm from "@/components/EnquiryForm";
 import HeroHome from "@/components/HeroHome";
+import CertificateSlider from "@/components/CertificateSlider";
 
 const why = [
   { icon: Award, t: "30+ Years of Expertise", d: "Established in 1996, with deep manufacturing know-how across tapes, foam and packaging." },
@@ -179,7 +180,7 @@ export default function Home() {
       <section className="section">
         <div className="container-x">
           <SectionHeading center eyebrow="Certifications" title="Certified & compliant" subtitle="Our commitment to quality is backed by recognised standards and registrations." />
-          <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
+          {/*<div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             {company.certificates.map((c, i) => (
               <Reveal key={c} delay={i * 0.05}>
                 <div className="flex items-center gap-3 rounded-2xl border border-black/5 bg-white px-6 py-4 shadow-card">
@@ -188,7 +189,8 @@ export default function Home() {
                 </div>
               </Reveal>
             ))}
-          </div>
+          </div>*/}
+          <CertificateSlider />
         </div>
       </section>
 

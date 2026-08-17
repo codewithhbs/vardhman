@@ -33,9 +33,11 @@ const config: Config = {
       keyframes: {
         floaty: { "0%,100%": { transform: "translateY(0)" }, "50%": { transform: "translateY(-12px)" } },
         shimmer: { "100%": { transform: "translateX(100%)" } },
+        marquee: { "0%": { transform: "translateX(0)" }, "100%": { transform: "translateX(-50%)" } },
       },
       animation: {
         floaty: "floaty 6s ease-in-out infinite",
+        marquee: "marquee 25s linear infinite",
       },
     },
   },
