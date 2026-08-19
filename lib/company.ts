@@ -10,7 +10,7 @@ export const company = {
   landline: "+91 11 2358 6026",
   whatsapp: "919312706093",
   email: "sales@vardhmanpackaging.com",
-  email2: "vardhmantapes@gmail.com",
+  email2: "vardhmanbhagwanltd@gmail.com",
   address: {
     line1: "2074, Gali No.5, Chuna mandi",
     line2: "Pahar Ganj",
@@ -19,7 +19,7 @@ export const company = {
     zip: "110055",
     country: "India",
   },
-  hours: "Mon – Sat: 9:30 AM – 7:00 PM",
+  hours: "Mon – Sun: 24hrs",
   mapEmbed:
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.509959261749!2d77.20518708110686!3d28.644445620795413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd426bea8551%3A0x4ff7311973b8b715!2s2074%2C%20Gali%20Number%205%2C%20Bazar%20Sangatrashan%2C%20Chuna%20Mandi%2C%20Paharganj%2C%20New%20Delhi%2C%20Delhi%20110055!5e0!3m2!1sen!2sin!4v1785146350671!5m2!1sen!2sin",
   socials: {

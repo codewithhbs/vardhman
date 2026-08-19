@@ -56,7 +56,8 @@ export default function Header() {
             <Image src="/images/logo.jpeg" alt="Vardhman Packaging Ltd" width={48} height={48} className="h-11 w-auto lg:h-12" priority />
             <span className="leading-tight">
               {/* <span className="block font-display text-base font-extrabold tracking-tight text-brand-dark lg:text-lg">VARDHMAN <span className="text-brand-orange">PACKAGING</span></span> */}
-              <span className="block font-display font-extrabold tracking-tight text-brand-dark text-[13px] lg:text-[18px]">Vardhman Tapes & Packaging Pvt Ltd</span>
+              {/* <span className="block font-display font-extrabold tracking-tight text-brand-dark text-[13px] lg:text-[18px]">Vardhman Tapes & Packaging Pvt Ltd</span> */}
+              <span className="block font-display font-extrabold tracking-tight text-brand-dark text-[13px] lg:text-[18px]">Vardhman Bhagwan Shree Pvt Ltd</span>
               <span className="block text-[10px] font-medium uppercase tracking-[0.18em] text-black/45">Vardhman Enterprises</span>
             </span>
           </Link>

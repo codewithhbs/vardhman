@@ -2454,8 +2454,10 @@ export const products: Product[] = [
       "Can be tied, stapled or nailed to posts, fences or barricades",
       "Fast on-the-spot warning for temporary outdoor or permanent indoor use",
     ],
-    undefined,
-    undefined,
+    "/product-img/Caution-Barricade-Tape.jpg",
+    [
+      "/product-img/Caution-Barricade-Tape.jpg",
+    ],
   ),
   P(
     "roads-construction",

@@ -6,6 +6,7 @@ import Image from "next/image";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { products, resolveImage } from "@/lib/products";
 import { useQuoteModal } from "./QuoteModalContext";
+import CertificateSlider from "./CertificateSlider";
 
 export default function HeroHome() {
   const { open: openQuote } = useQuoteModal();
@@ -68,6 +69,7 @@ export default function HeroHome() {
       onMouseLeave={resume}
     >
       <div className="h-2 w-full bg-[#17140F]" />
+      <CertificateSlider />
 
       <div className="relative flex w-full flex-col items-center gap-4 py-8 sm:py-10">
         <div className="relative flex w-full items-center justify-center">
