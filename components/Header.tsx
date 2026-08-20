@@ -64,7 +64,7 @@ export default function Header({
             <Image src={company.logo || "/images/logo.jpeg"} alt={company.name} width={48} height={48} className="h-11 w-auto lg:h-12" priority />
             <span className="leading-tight">
               <span className="block font-display font-extrabold tracking-tight text-brand-dark text-[13px] lg:text-[18px]">Vardhman Bhagwan Shree Pvt Ltd</span>
-              <span className="block text-[10px] font-medium uppercase tracking-[0.18em] text-black/45">Vardhman Enterprises</span>
+              <span className="block text-[10px] font-medium uppercase tracking-[0.18em] text-black/45 text-center">Vardhman Enterprises</span>
             </span>
           </Link>
 
