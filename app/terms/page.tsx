@@ -1,9 +1,15 @@
 import PageHero from "@/components/PageHero";
-import { company } from "@/lib/company";
+import { getCompany } from "@/lib/data";
+
+export const dynamic = "force-dynamic";
 
 export const metadata = { title: "Terms & Conditions", description: "Terms & Conditions of Vardhman Packaging Ltd." };
 
-const sections = [
+
+
+export default async function Terms() {
+  const company = await getCompany();
+  const sections = [
   { h: "Acceptance of Terms", p: "By accessing and using this website, you accept and agree to be bound by these Terms & Conditions. If you do not agree, please do not use this website." },
   { h: "Use of Website", p: "This website and its content are provided for general information about our products and services. You agree to use it lawfully and not to misuse, disrupt or attempt unauthorised access to any part of it." },
   { h: "Product Information", p: "We make every effort to ensure product descriptions, specifications and images are accurate. However, minor variations may occur, and specifications are subject to change without notice. Final specifications are confirmed at the time of order." },
@@ -14,7 +20,6 @@ const sections = [
   { h: "Contact", p: `For questions regarding these terms, contact us at ${company.email} or ${company.phone}.` },
 ];
 
-export default function Terms() {
   return (
     <>
       <PageHero title="Terms & Conditions" crumbs={[{ label: "Terms & Conditions" }]} />

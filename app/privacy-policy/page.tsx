@@ -1,9 +1,15 @@
 import PageHero from "@/components/PageHero";
-import { company } from "@/lib/company";
+import { getCompany } from "@/lib/data";
+
+export const dynamic = "force-dynamic";
 
 export const metadata = { title: "Privacy Policy", description: "Privacy Policy of Vardhman Packaging Ltd." };
 
-const sections = [
+
+
+export default async function Privacy() {
+  const company = await getCompany();
+  const sections = [
   { h: "Introduction", p: "Vardhman Packaging Ltd (\"we\", \"us\", \"our\") respects your privacy and is committed to protecting the personal information you share with us through this website. This policy explains what we collect and how we use it." },
   { h: "Information We Collect", p: "We collect information you voluntarily provide through enquiry and contact forms, such as your name, company, email, phone number, city, country and requirement details. We may also collect basic, non-identifying analytics data to improve our website." },
   { h: "How We Use Your Information", p: "Your information is used solely to respond to your enquiries, provide quotations, process orders and communicate relevant updates. We do not sell, rent or trade your personal information to third parties." },
@@ -14,7 +20,6 @@ const sections = [
   { h: "Contact", p: `For any privacy-related queries, contact us at ${company.email} or ${company.phone}.` },
 ];
 
-export default function Privacy() {
   return (
     <>
       <PageHero title="Privacy Policy" crumbs={[{ label: "Privacy Policy" }]} />

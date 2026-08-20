@@ -1,10 +1,11 @@
 "use client";
 import { useState } from "react";
 import { Plus, Minus } from "lucide-react";
-import type { FAQ } from "@/lib/products";
+import type { FAQ } from "@/lib/types";
 
 export default function FAQAccordion({ items }: { items: FAQ[] }) {
   const [open, setOpen] = useState<number | null>(0);
+  if (!items?.length) return null;
   return (
     <div className="divide-y divide-black/5 overflow-hidden rounded-2xl border border-black/5 bg-white">
       {items.map((f, i) => (

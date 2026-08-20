@@ -1,13 +1,16 @@
 import Link from "next/link";
 import { CheckCircle2, ArrowRight, Phone, Home as HomeIcon } from "lucide-react";
-import { company } from "@/lib/company";
+import { getCompany } from "@/lib/data";
+
+export const dynamic = "force-dynamic";
 
 export const metadata = {
   title: "Thank You",
   description: "Your enquiry has been received. Our team will get back to you shortly.",
 };
 
-export default function ThankYou() {
+export default async function ThankYou() {
+  const company = await getCompany();
   return (
     <section className="section">
       <div className="container-x flex flex-col items-center py-20 text-center">

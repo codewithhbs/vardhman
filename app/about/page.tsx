@@ -1,11 +1,13 @@
 import Image from "next/image";
 import { Target, Eye, Gem, History, Users, ShieldCheck, Microscope, Building2, CheckCircle2 } from "lucide-react";
-import { company } from "@/lib/company";
+import { getCompany } from "@/lib/data";
 import PageHero from "@/components/PageHero";
 import SectionHeading from "@/components/SectionHeading";
 import Reveal from "@/components/Reveal";
 import Counter from "@/components/Counter";
 import CTASection from "@/components/CTASection";
+
+export const dynamic = "force-dynamic";
 
 export const metadata = {
   title: "About Us",
@@ -19,7 +21,8 @@ const values = [
   { icon: History, t: "Reliability", d: "Consistent quality and on-time delivery, order after order." },
 ];
 
-export default function About() {
+export default async function About() {
+  const company = await getCompany();
   return (
     <>
       <PageHero title="About Vardhman Packaging" subtitle="A trusted manufacturer and supplier of industrial tapes, foam and packaging solutions since 1996." crumbs={[{ label: "About Us" }]} />
@@ -35,12 +38,12 @@ export default function About() {
           <div>
             <SectionHeading eyebrow="Company Overview" title="Engineering trust into every product" />
             <div className="mt-5 space-y-4 text-black/60 leading-relaxed">
-              <p>Established in 1996, Vardhman Packaging Ltd — operating as Vardhman Enterprises (Vardhman Bhagwanshree Pvt. Ltd.) — is a prominent manufacturer, supplier, importer and wholesaler of a quality-approved range of industrial tapes, foam and packaging materials.</p>
+              <p>Established in {company.established}, {company.name} — operating as {company.legalName} — is a prominent manufacturer, supplier, importer and wholesaler of a quality-approved range of industrial tapes, foam and packaging materials.</p>
               <p>All our products are made using finest-quality raw materials, adhesive coating and printing following industry standards. Our range is widely used across FMCG, retail, construction, automotive and export sectors, available in a variety of colours, textures, widths, lengths and thicknesses to suit each client's needs.</p>
               <p>Supported by a team of diligent professionals and modern infrastructure, we have earned the trust of a large base of loyal clients through timely delivery, a quality-proven range and a wide distribution network.</p>
             </div>
             <div className="mt-8 grid grid-cols-3 gap-4">
-              {company.stats.slice(0, 3).map((s) => (
+              {(company.stats || []).slice(0, 3).map((s) => (
                 <div key={s.label}><div className="font-display text-3xl font-extrabold text-brand-orange"><Counter to={s.value} suffix={s.suffix} /></div><div className="text-xs text-black/50">{s.label}</div></div>
               ))}
             </div>
@@ -109,7 +112,7 @@ export default function About() {
           <div>
             <SectionHeading eyebrow="Leadership" title="Guided by experienced leadership" subtitle="Under the direction of our leadership, Vardhman has built a sophisticated niche in a competitive market." />
             <div className="mt-8 space-y-4">
-              {company.leadership.map((l) => (
+              {(company.leadership || []).map((l) => (
                 <div key={l.name} className="flex items-center gap-4 rounded-2xl border border-black/5 bg-white p-5 shadow-card">
                   <div className="flex h-14 w-14 items-center justify-center rounded-full bg-brand-gradient font-display text-lg font-bold text-white">{l.name.split(" ").map((n) => n[0]).join("")}</div>
                   <div><div className="font-display font-bold text-brand-dark">{l.name}</div><div className="text-sm text-black/50">{l.role}</div></div>
@@ -121,7 +124,7 @@ export default function About() {
             <div className="rounded-3xl bg-brand-dark p-8 text-white sm:p-10">
               <h3 className="font-display text-xl font-bold text-brand-yellow">Why Choose Us</h3>
               <div className="mt-5 space-y-3">
-                {["Timely delivery, order after order", "Quality-proven, tested product range", "Wide distribution network across India", "Custom & OEM manufacturing capability", "Vast industry experience since 1996"].map((f) => (
+                {["Timely delivery, order after order", "Quality-proven, tested product range", "Wide distribution network across India", "Custom & OEM manufacturing capability", `Vast industry experience since ${company.established}`].map((f) => (
                   <div key={f} className="flex items-start gap-3"><CheckCircle2 className="h-5 w-5 flex-none text-brand-yellow" /><span className="text-white/80">{f}</span></div>
                 ))}
               </div>

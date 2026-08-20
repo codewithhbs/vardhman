@@ -1,8 +1,10 @@
 "use client";
-import { company } from "@/lib/company";
 
-export default function WhatsAppButton() {
-  const href = `https://wa.me/${company.whatsapp}?text=${encodeURIComponent("Hello Vardhman Packaging, I would like an enquiry / quotation.")}`;
+export default function WhatsAppButton({ whatsapp, name }: { whatsapp: string; name: string }) {
+  if (!whatsapp) return null;
+  const href = `https://wa.me/${whatsapp}?text=${encodeURIComponent(
+    `Hello ${name}, I would like an enquiry / quotation.`
+  )}`;
   return (
     <a
       href={href}

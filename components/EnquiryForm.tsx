@@ -2,14 +2,18 @@
 import { useState } from "react";
 import { Send, CheckCircle2, Loader2 } from "lucide-react";
 
-type Props = { compact?: boolean; product?: string; title?: string };
-
-const WHATSAPP_NUMBER = "919312706093";
+type Props = {
+  compact?: boolean;
+  product?: string;
+  title?: string;
+  whatsapp?: string;
+};
 
 export default function EnquiryForm({
   compact = false,
   product,
   title,
+  whatsapp,
 }: Props) {
   const [status, setStatus] = useState<"idle" | "loading" | "done">("idle");
   const [form, setForm] = useState({
@@ -37,7 +41,7 @@ export default function EnquiryForm({
     return Object.keys(e).length === 0;
   };
 
-  const submit = () => {
+  const submit = async () => {
     if (!validate()) return;
     setStatus("loading");
 
@@ -58,11 +62,25 @@ export default function EnquiryForm({
     const text = encodeURIComponent(lines.join("\n"));
 
     // Must open synchronously inside the click handler, else popup blockers kick in
-    window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${text}`, "_blank");
+    // if (whatsapp) {
+    //   window.open(`https://wa.me/${whatsapp}?text=${text}`, "_blank");
+    // }
 
-    // Email/CMS integration ready: POST form to /api/enquiry here (in addition to WhatsApp).
-    setTimeout(() => setStatus("done"), 800);
+    // Save the lead in the database (and email it) regardless of WhatsApp
+    try {
+      await fetch("/api/enquiry", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ ...form, source: "enquiry-form" }),
+      });
+    } catch (e) {
+      /* lead already opened in WhatsApp — don't block the user */
+      console.error("Error submitting enquiry:", e);
+    }
+
+    setStatus("done");
   };
+
   if (status === "done") {
     return (
       <div className="flex flex-col items-center rounded-2xl border border-green-200 bg-green-50 px-6 py-10 text-center">

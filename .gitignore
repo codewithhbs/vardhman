@@ -1,7 +1,4 @@
 node_modules
 .next
-out
-.env*
-.DS_Store
-*.log
-.git
+.env
+tsconfig.tsbuildinfo

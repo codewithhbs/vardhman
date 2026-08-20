@@ -14,6 +14,8 @@ import Reveal from "@/components/Reveal";
 import Counter from "@/components/Counter";
 import CTASection from "@/components/CTASection";
 
+export const dynamic = "force-dynamic";
+
 export const metadata = {
   title: "Infrastructure",
   description:

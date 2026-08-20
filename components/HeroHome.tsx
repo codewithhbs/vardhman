@@ -4,16 +4,24 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import { products, resolveImage } from "@/lib/products";
+import type { Product } from "@/lib/types";
+import { resolveImage } from "@/lib/types";
 import { useQuoteModal } from "./QuoteModalContext";
 import CertificateSlider from "./CertificateSlider";
 
-export default function HeroHome() {
+export default function HeroHome({
+  products,
+  certs = [],
+}: {
+  products: Product[];
+  certs: { src: string; alt: string }[];
+}) {
   const { open: openQuote } = useQuoteModal();
+
   const slides = useMemo(() => {
     const seen = new Set<string>();
-    const first: typeof products = [];
-    const rest: typeof products = [];
+    const first: Product[] = [];
+    const rest: Product[] = [];
     for (const p of products) {
       if (!seen.has(p.category)) {
         seen.add(p.category);
@@ -23,7 +31,7 @@ export default function HeroHome() {
       }
     }
     return [...first, ...rest];
-  }, []);
+  }, [products]);
 
   const [index, setIndex] = useState(0);
   const total = slides.length;
@@ -39,6 +47,7 @@ export default function HeroHome() {
   };
 
   useEffect(() => {
+    if (total === 0) return;
     timerRef.current = setInterval(() => go(1), 2600);
     return () => {
       if (timerRef.current) clearInterval(timerRef.current);
@@ -51,7 +60,7 @@ export default function HeroHome() {
   };
   const resume = () => {
     pause();
-    timerRef.current = setInterval(() => go(1), 2600);
+    if (total > 0) timerRef.current = setInterval(() => go(1), 2600);
   };
 
   if (total === 0) return null;
@@ -63,13 +72,9 @@ export default function HeroHome() {
   });
 
   return (
-    <section
-      className="relative overflow-hidden bg-[#5C0A0A]"
-      onMouseEnter={pause}
-      onMouseLeave={resume}
-    >
+    <section className="relative overflow-hidden bg-[#5C0A0A]" onMouseEnter={pause} onMouseLeave={resume}>
       <div className="h-2 w-full bg-[#17140F]" />
-      <CertificateSlider />
+      <CertificateSlider certs={certs} />
 
       <div className="relative flex w-full flex-col items-center gap-4 py-8 sm:py-10">
         <div className="relative flex w-full items-center justify-center">
@@ -108,14 +113,7 @@ export default function HeroHome() {
                   }}
                 >
                   {img ? (
-                    <Image
-                      src={img}
-                      alt={product.name}
-                      fill
-                      sizes="232px"
-                      className="object-cover"
-                      priority={offset === 0}
-                    />
+                    <Image src={img} alt={product.name} fill sizes="232px" className="object-cover" priority={offset === 0} />
                   ) : null}
                 </Link>
               );

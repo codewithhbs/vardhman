@@ -1,0 +1,5645 @@
+{
+  "company": {
+    "name": "Vardhman Packaging Ltd",
+    "legalName": "Vardhman Bhagwanshree Pvt. Ltd. (Vardhman Enterprises)",
+    "tagline": "Delivering Innovative Packaging & Tape Solutions with Precision and Excellence",
+    "short": "Vardhman Packaging",
+    "established": 1996,
+    "phone": "+919312706093",
+    "phone2": "+919899778199",
+    "phoneRaw": "+919312706093",
+    "landline": "+91 11 2358 6026",
+    "whatsapp": "919312706093",
+    "email": "sales@vardhmanpackaging.com",
+    "email2": "vardhmanbhagwanltd@gmail.com",
+    "address": {
+      "line1": "2074, Gali No.5, Chuna mandi",
+      "line2": "Pahar Ganj",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zip": "110055",
+      "country": "India"
+    },
+    "hours": "Mon – Sun: 24hrs",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.509959261749!2d77.20518708110686!3d28.644445620795413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd426bea8551%3A0x4ff7311973b8b715!2s2074%2C%20Gali%20Number%205%2C%20Bazar%20Sangatrashan%2C%20Chuna%20Mandi%2C%20Paharganj%2C%20New%20Delhi%2C%20Delhi%20110055!5e0!3m2!1sen!2sin!4v1785146350671!5m2!1sen!2sin",
+    "socials": {
+      "facebook": "https://www.facebook.com/",
+      "linkedin": "https://www.linkedin.com/",
+      "twitter": "https://twitter.com/",
+      "instagram": "https://www.instagram.com/"
+    },
+    "stats": [
+      {
+        "label": "Years of Experience",
+        "value": 30,
+        "suffix": "+"
+      },
+      {
+        "label": "Product Range",
+        "value": 60,
+        "suffix": "+"
+      },
+      {
+        "label": "Industries Served",
+        "value": 12,
+        "suffix": "+"
+      },
+      {
+        "label": "Happy Clients",
+        "value": 1500,
+        "suffix": "+"
+      }
+    ],
+    "leadership": [
+      {
+        "name": "Harshad Jain",
+        "role": "Chief Executive Officer"
+      },
+      {
+        "name": "Puneet Jain",
+        "role": "General Manager"
+      }
+    ],
+    "certificates": [
+      "ISO 9001:2015",
+      "GST Registered",
+      "MSME / Udyam",
+      "RoHS Compliant"
+    ],
+    "siteUrl": "https://www.vardhmanpackagingltd.com",
+    "logo": "/images/logo.jpeg",
+    "gtmId": "GTM-MH664578",
+    "footerAddress": "Ground Floor, Front Portion, Khasra No 71/1 Min, Alipur, Karnal Road, Central Delhi, New Delhi - 110036, Delhi, India",
+    "certificateImages": [
+      {
+        "src": "/certificates/iso-9001-qa.jpeg",
+        "alt": "ISO 9001 Quality Assurance"
+      },
+      {
+        "src": "/certificates/ascc.jpeg",
+        "alt": "ASCC Certified"
+      },
+      {
+        "src": "/certificates/irqs-nabcb.jpeg",
+        "alt": "ISO 13485 IRQS NABCB"
+      },
+      {
+        "src": "/certificates/aqsr-usac.jpeg",
+        "alt": "AQSR USAC ISO 9001"
+      },
+      {
+        "src": "/certificates/jas-anz.jpeg",
+        "alt": "JAS-ANZ"
+      },
+      {
+        "src": "/certificates/iso-9001-global.jpeg",
+        "alt": "ISO 9001"
+      },
+      {
+        "src": "/certificates/ags.jpeg",
+        "alt": "American Global Standards"
+      }
+    ],
+    "homepage": {
+      "why": [
+        {
+          "icon": "Award",
+          "title": "30+ Years of Expertise",
+          "desc": "Established in 1996, with deep manufacturing know-how across tapes, foam and packaging."
+        },
+        {
+          "icon": "ShieldCheck",
+          "title": "Consistent Quality",
+          "desc": "ISO-aligned processes with in-house inspection ensure every batch meets specification."
+        },
+        {
+          "icon": "Factory",
+          "title": "In-House Manufacturing",
+          "desc": "Complete control over production, slitting and finishing for reliable, repeatable output."
+        },
+        {
+          "icon": "Truck",
+          "title": "On-Time Delivery",
+          "desc": "A responsive supply chain that keeps your dispatch and production lines running."
+        },
+        {
+          "icon": "Recycle",
+          "title": "Custom & OEM Solutions",
+          "desc": "Bespoke widths, colours, printing and die-cut profiles tailored to your needs."
+        },
+        {
+          "icon": "Headphones",
+          "title": "Dedicated Support",
+          "desc": "Technical guidance and prompt service from enquiry to after-sales."
+        }
+      ],
+      "process": [
+        {
+          "title": "Raw Material Sourcing",
+          "desc": "Premium films, foams and adhesives sourced from trusted suppliers."
+        },
+        {
+          "title": "Coating & Extrusion",
+          "desc": "Precision adhesive coating and foam extrusion to exact specifications."
+        },
+        {
+          "title": "Slitting & Cutting",
+          "desc": "Accurate slitting, die-cutting and CNC routing to required sizes."
+        },
+        {
+          "title": "Quality Inspection",
+          "desc": "In-process and final testing for tack, thickness and performance."
+        },
+        {
+          "title": "Packing & Dispatch",
+          "desc": "Careful packing and timely dispatch across India and for export."
+        }
+      ]
+    },
+    "seo": {
+      "title": "Vardhman Packaging Ltd | Industrial Tapes, Foam & Packaging Manufacturer",
+      "description": "Vardhman Packaging Ltd is a leading manufacturer & supplier of BOPP packaging tapes, double-sided & electrical tapes, EPE/EVA foam, backer rods and LDPE sheets. ISO-aligned quality, custom & OEM solutions across India.",
+      "keywords": [
+        "packaging tape",
+        "BOPP tape",
+        "double sided tape",
+        "EPE foam",
+        "EVA foam",
+        "backer rod",
+        "electrical tape",
+        "industrial tape manufacturer",
+        "Delhi packaging company"
+      ]
+    }
+  },
+  "categories": [
+    {
+      "slug": "packaging-tape",
+      "name": "Packaging Tape",
+      "icon": "Package",
+      "tagline": "High-tack BOPP & carton sealing tapes",
+      "description": "We are a leading Manufacturer of bopp self adhesive tape, cross filament tapes, plastic core for tape, 3m monofilament tape, reinforced kraft paper tape (water activated) and pvc non adhesive tape from New Delhi, India.",
+      "image": "/product-img/590_0.jpg",
+      "features": [
+        "288 mm to 1500 mm available",
+        "Strong instant tack and shear holding",
+        "Noise-controlled clean unwind",
+        "Solvent-free, odour-free acrylic adhesive",
+        "Available printed for brand promotion"
+      ],
+      "applications": [
+        "Carton sealing",
+        "Export packaging",
+        "E-commerce dispatch",
+        "Bundling & strapping"
+      ],
+      "industries": [
+        "FMCG",
+        "E-commerce & Retail",
+        "Logistics",
+        "Manufacturing"
+      ],
+      "faqs": [
+        {
+          "q": "What widths are available?",
+          "a": "Standard widths are 24mm, 48mm and 72mm, with custom slitting from 12mm upwards on request."
+        },
+        {
+          "q": "Can tapes be printed with our logo?",
+          "a": "Yes. We supply single and multi-colour printed BOPP tapes with your brand name, logo or handling instructions."
+        }
+      ],
+      "order": 0,
+      "active": true
+    },
+    {
+      "slug": "tape",
+      "name": "Tape",
+      "icon": "Layers",
+      "tagline": "Single & double-sided bonding tapes",
+      "description": "A versatile range of transparent, polyester and double-sided adhesive tapes engineered for mounting, splicing and bonding. From clear stationery tapes to high-performance double-sided polyester and 3M-grade tissue tapes, each product is coated with pressure-sensitive adhesive for reliable, residue-free adhesion.",
+      "image": "/product-img/double-category.png",
+      "features": [
+        "Pressure-sensitive high-bond adhesive",
+        "Clear, low-profile finish",
+        "Excellent age and temperature stability",
+        "Die-cuttable to custom shapes"
+      ],
+      "applications": [
+        "Mounting & bonding",
+        "Splicing",
+        "POS display assembly",
+        "Print finishing"
+      ],
+      "industries": [
+        "Printing & Packaging",
+        "Retail Display",
+        "Electronics",
+        "Signage"
+      ],
+      "faqs": [
+        {
+          "q": "Do double-sided tapes leave residue?",
+          "a": "No. Our polyester and tissue-carrier tapes are designed for clean removal on most substrates."
+        }
+      ],
+      "order": 1,
+      "active": true
+    },
+    {
+      "slug": "label-printing-tape",
+      "name": "Label & Flexo Printing Tape",
+      "icon": "Printer",
+      "tagline": "Plate-mounting & printing consumables",
+      "description": "Precision double-sided cotton flexo printing tapes, clear polyester tapes, release liners and tissue tapes engineered for the label, flexo and offset printing industries. These plate-mounting and converting consumables provide uniform cushioning, accurate registration and clean release for repeat print jobs.",
+      "image": "/product-img/flexo-printing-label.jpg",
+      "features": [
+        "Uniform foam cushioning for print clarity",
+        "Consistent thickness tolerance",
+        "Clean plate release without ghosting",
+        "Available in soft / medium / hard densities"
+      ],
+      "applications": [
+        "Flexo plate mounting",
+        "Label converting",
+        "Sleeve building",
+        "Paper application"
+      ],
+      "industries": [
+        "Label Printing",
+        "Flexible Packaging",
+        "Corrugation",
+        "Publishing"
+      ],
+      "faqs": [
+        {
+          "q": "Which density should we choose?",
+          "a": "Soft cushions solids, medium is an all-round choice, and hard suits fine line and text work. Our team can advise per plate type."
+        }
+      ],
+      "order": 2,
+      "active": true
+    },
+    {
+      "slug": "electrical-tapes",
+      "name": "Electrical Tapes",
+      "icon": "Zap",
+      "tagline": "Insulation & harness tapes",
+      "description": "Flame-retardant PVC, polyester, Kapton, Teflon and cotton cloth electrical tapes for insulation, harnessing and high-temperature applications. Manufactured to withstand demanding electrical loads with excellent dielectric strength and abrasion resistance.",
+      "image": "/product-img/Electrical-tape_black.jpg",
+      "features": [
+        "High dielectric / insulation strength",
+        "Flame-retardant PVC options",
+        "Conformable and stretchable",
+        "Heat-resistant polyester & polyimide grades"
+      ],
+      "applications": [
+        "Wire insulation",
+        "Cable harnessing",
+        "Coil wrapping",
+        "High-temp masking"
+      ],
+      "industries": [
+        "Electrical",
+        "Automotive",
+        "Appliances",
+        "Panel Manufacturing"
+      ],
+      "faqs": [
+        {
+          "q": "Are these tapes flame-retardant?",
+          "a": "Yes, our PVC insulation tapes are formulated to be self-extinguishing and meet common electrical safety standards."
+        }
+      ],
+      "order": 3,
+      "active": true
+    },
+    {
+      "slug": "insulation-waterproof-tapes",
+      "name": "Insulation & Waterproof Tapes",
+      "icon": "Droplets",
+      "tagline": "Butyl, duct & foil sealing tapes",
+      "description": "A robust range of waterproof butyl rubber tapes, aluminium foil tapes and cloth duct tapes for sealing, insulation and moisture protection. Ideal for HVAC, roofing, ducting and industrial repair where a permanent watertight bond is essential.",
+      "image": "/product-img/insulation-waterproof-trapes.jpg",
+      "features": [
+        "Fully waterproof and airtight seal",
+        "Superior conformability to irregular surfaces",
+        "UV and weather resistant",
+        "Reflective aluminium foil grades"
+      ],
+      "applications": [
+        "HVAC duct sealing",
+        "Roof & terrace waterproofing",
+        "Pipe insulation",
+        "Industrial repair"
+      ],
+      "industries": [
+        "HVAC",
+        "Construction",
+        "Infrastructure",
+        "Maintenance"
+      ],
+      "faqs": [
+        {
+          "q": "Can duct tape be used outdoors?",
+          "a": "Our waterproof butyl and foil grades are UV-stabilised for exterior and long-term sealing applications."
+        }
+      ],
+      "order": 4,
+      "active": true
+    },
+    {
+      "slug": "architecture-glass-tapes",
+      "name": "Architecture & Glass Tapes",
+      "icon": "Building2",
+      "tagline": "Surface protection, glazing & sealants",
+      "description": "Specialised surface protection films, colour masking tapes, VHB acrylic foam tapes, spacer tapes, backer rods and structural glazing sealants for the architecture, glazing and facade industries. Engineered to protect finished surfaces and support structural glazing joints.",
+      "image": "/product-img/architecture-glass-tapes.jpg",
+      "features": [
+        "Residue-free surface protection",
+        "Clean-edge colour masking",
+        "VHB acrylic foam bonding tapes",
+        "Structural glazing sealants & spacers"
+      ],
+      "applications": [
+        "Glass & panel protection",
+        "Facade masking",
+        "Structural glazing joints",
+        "Aluminium fabrication"
+      ],
+      "industries": [
+        "Architecture",
+        "Glass Processing",
+        "Facade & Glazing",
+        "Aluminium"
+      ],
+      "faqs": [
+        {
+          "q": "Will protection tape damage glass or panels?",
+          "a": "No. Our surface protection tapes peel away cleanly without adhesive transfer within the recommended service window."
+        }
+      ],
+      "order": 5,
+      "active": true
+    },
+    {
+      "slug": "plastic-rods",
+      "name": "Plastic Rods & Backer Rods",
+      "icon": "Cylinder",
+      "tagline": "EPE backer rods & engineering rods",
+      "description": "Closed-cell EPE foam backer rods in a full range of diameters, plus Teflon, PP and Delrin engineering rods and nylon reinforcement tapes. Backer rods control sealant depth in expansion joints for better joint geometry and long-lasting weatherproof seals.",
+      "image": "/product-img/backer-rod-and-expansion-rod-back-up-rod.jpg",
+      "features": [
+        "Closed-cell, non-absorbent foam",
+        "Compressible for tight joint fit",
+        "Diameters from 12mm to 80mm+",
+        "Engineering rods in Teflon, PP & Delrin"
+      ],
+      "applications": [
+        "Expansion joint filling",
+        "Sealant backing",
+        "Machined components",
+        "Void filling"
+      ],
+      "industries": [
+        "Construction",
+        "Civil Infrastructure",
+        "Engineering",
+        "Roads"
+      ],
+      "faqs": [
+        {
+          "q": "How do I select backer rod diameter?",
+          "a": "Choose a rod roughly 25% larger than the joint width for correct compression. Our team can recommend sizes per joint."
+        }
+      ],
+      "order": 6,
+      "active": true
+    },
+    {
+      "slug": "expanded-polyethylene-foam",
+      "name": "Expanded Polyethylene (EPE) Foam",
+      "icon": "Box",
+      "tagline": "Protective foam profiles & tubes",
+      "description": "Lightweight, resilient EPE foam rods, pipe insulation tubes, C-sections, U-profiles and L-sections engineered for edge protection, cushioning and thermal insulation. Closed-cell structure absorbs shock and vibration while remaining moisture-resistant and recyclable.",
+      "image": "/product-img/expanded-polyethylene.jpg",
+      "features": [
+        "Excellent shock and vibration absorption",
+        "Thermal insulation for pipes",
+        "Custom C / U / L edge profiles",
+        "Non-abrasive, surface-safe"
+      ],
+      "applications": [
+        "Edge & corner protection",
+        "Pipe insulation",
+        "Furniture packaging",
+        "Appliance cushioning"
+      ],
+      "industries": [
+        "Packaging",
+        "White Goods",
+        "Furniture",
+        "Logistics"
+      ],
+      "faqs": [
+        {
+          "q": "Can EPE profiles be customised?",
+          "a": "Yes, we extrude and cut C-sections, U-profiles, L-sections and rods to your dimensions and colours."
+        }
+      ],
+      "order": 7,
+      "active": true
+    },
+    {
+      "slug": "automotive-tapes",
+      "name": "Automotive Tapes",
+      "icon": "Car",
+      "tagline": "PE foam & panel bonding tapes",
+      "description": "High-performance PE foam and acrylic panel-bonding tapes for automotive trim, emblem mounting and weather sealing. Designed to bond dissimilar surfaces with vibration resistance and long-term durability in demanding under-hood and exterior conditions.",
+      "image": "/product-img/automotive-tapes.jpg",
+      "features": [
+        "Strong structural bonding",
+        "Vibration and temperature resistant",
+        "Weatherproof PE foam carrier",
+        "Bonds dissimilar substrates"
+      ],
+      "applications": [
+        "Emblem & trim mounting",
+        "Panel bonding",
+        "Weatherstrip sealing",
+        "Badge fixing"
+      ],
+      "industries": [
+        "Automotive OEM",
+        "Auto Aftermarket",
+        "Two-Wheeler",
+        "Commercial Vehicles"
+      ],
+      "faqs": [
+        {
+          "q": "Will these tapes hold in high heat?",
+          "a": "Yes, our acrylic foam tapes retain bond strength across a wide automotive temperature range."
+        }
+      ],
+      "order": 8,
+      "active": true
+    },
+    {
+      "slug": "roads-construction",
+      "name": "Road & Construction Products",
+      "icon": "TrafficCone",
+      "tagline": "Reflective, barricade & safety tapes",
+      "description": "Reflective fabric tapes, retro-reflective safety tapes, caution barricade tapes, underground warning tapes and dowel bar caps for road construction and site safety. Engineered for high visibility, weather durability and compliance with site safety practices.",
+      "image": "/product-img/silver-grey-fabric-reflective-tape.webp",
+      "features": [
+        "High-visibility retro-reflectivity",
+        "Weather and abrasion resistant",
+        "Bright caution / barricade grades",
+        "Underground warning & dowel accessories"
+      ],
+      "applications": [
+        "Road safety marking",
+        "Site barricading",
+        "Utility warning",
+        "Hazard identification"
+      ],
+      "industries": [
+        "Road Construction",
+        "Civil Infrastructure",
+        "Municipal",
+        "Safety"
+      ],
+      "faqs": [
+        {
+          "q": "Are reflective tapes suitable for outdoor road use?",
+          "a": "Yes, our retro-reflective and fabric reflective tapes are built for long outdoor exposure."
+        }
+      ],
+      "order": 9,
+      "active": true
+    },
+    {
+      "slug": "floor-care",
+      "name": "Floor Care & Marking",
+      "icon": "Grid3x3",
+      "tagline": "Floor marking & anti-skid tapes",
+      "description": "Durable PVC floor marking tapes, double-sided carpet tapes and anti-skid safety tapes for warehouses, factories and public spaces. Bright, hard-wearing films define lanes, zones and hazards while anti-slip grades improve underfoot safety.",
+      "image": "/product-img/floor-care-marking.jpg",
+      "features": [
+        "Abrasion-resistant PVC film",
+        "Bright, long-lasting colours",
+        "Anti-skid textured grades",
+        "Strong floor-grip adhesive"
+      ],
+      "applications": [
+        "Lane & zone marking",
+        "Carpet fixing",
+        "Stair & ramp safety",
+        "5S workplace organisation"
+      ],
+      "industries": [
+        "Warehousing",
+        "Manufacturing",
+        "Retail",
+        "Hospitality"
+      ],
+      "faqs": [
+        {
+          "q": "Can floor tape handle forklift traffic?",
+          "a": "Our heavy-duty PVC marking tapes are formulated to withstand foot and light vehicle traffic."
+        }
+      ],
+      "order": 10,
+      "active": true
+    },
+    {
+      "slug": "ldpe-sheet",
+      "name": "LDPE Sheets",
+      "icon": "Sheet",
+      "tagline": "Curing & protection sheeting",
+      "description": "LDPE and PQC sheets for road construction curing, moisture barriers and surface protection. Supplied in a range of gauges and widths to suit civil, agricultural and packaging protection needs.",
+      "image": "/product-img/black-ldpe-polythene-sheet.jpeg",
+      "features": [
+        "Consistent gauge and clarity",
+        "Effective moisture barrier",
+        "Tear and puncture resistant",
+        "Custom widths and thickness"
+      ],
+      "applications": [
+        "Concrete curing",
+        "Ground / moisture barrier",
+        "Surface covering",
+        "Protective sheeting"
+      ],
+      "industries": [
+        "Road Construction",
+        "Agriculture",
+        "Civil",
+        "Packaging"
+      ],
+      "faqs": [
+        {
+          "q": "What thickness do you offer?",
+          "a": "We supply LDPE sheeting in multiple micron gauges; share your application and we will recommend the right grade."
+        }
+      ],
+      "order": 11,
+      "active": true
+    },
+    {
+      "slug": "shoe-material-goods",
+      "name": "Shoe Material & Goods",
+      "icon": "Footprints",
+      "tagline": "Footwear reinforcement tapes",
+      "description": "Specialised tapes and reinforcement materials for the footwear manufacturing industry, including polyester nylon tapes and eyelet reinforcement tapes that add strength, shape retention and durability to shoe construction.",
+      "image": "/product-img/Polyester-Nylon-Tape.webp",
+      "features": [
+        "High-tensile reinforcement",
+        "Shape retention for uppers",
+        "Eyelet & seam strengthening",
+        "Consistent width and quality"
+      ],
+      "applications": [
+        "Shoe upper reinforcement",
+        "Eyelet strengthening",
+        "Seam binding",
+        "Edge finishing"
+      ],
+      "industries": [
+        "Footwear",
+        "Leather Goods",
+        "Sports Shoes",
+        "Manufacturing"
+      ],
+      "faqs": [
+        {
+          "q": "Can these tapes be supplied in custom widths?",
+          "a": "Yes, our footwear reinforcement tapes are available in custom widths to suit your production line."
+        }
+      ],
+      "order": 12,
+      "active": true
+    },
+    {
+      "slug": "corporate-event-management",
+      "name": "Corporate & Event Supplies",
+      "icon": "PartyPopper",
+      "tagline": "Catering rolls & event foam goods",
+      "description": "Consumables and foam goods for events, catering and corporate functions, including food-grade table paper rolls and coloured EPE foam pipes and tubes for decor, protection and presentation.",
+      "image": "/product-img/catering-table-paper-rolls-250x250.webp",
+      "features": [
+        "Food-grade catering paper rolls",
+        "Coloured EPE foam pipes & tubes",
+        "Clean, presentable finish",
+        "Bulk supply for events"
+      ],
+      "applications": [
+        "Event catering",
+        "Table covering",
+        "Decor & protection",
+        "Corporate functions"
+      ],
+      "industries": [
+        "Events & Hospitality",
+        "Catering",
+        "Corporate",
+        "Decor"
+      ],
+      "faqs": [
+        {
+          "q": "Are the paper rolls food-safe?",
+          "a": "Yes, our catering table paper rolls are food-grade and suitable for events and hospitality use."
+        }
+      ],
+      "order": 13,
+      "active": true
+    },
+    {
+      "slug": "construction-material",
+      "name": "Construction Material",
+      "icon": "HardHat",
+      "tagline": "LDPE sheeting for civil works",
+      "description": "Construction-grade LDPE sheeting for road construction, curing and moisture-barrier applications, supplied in gauges and widths suited to civil and infrastructure projects.",
+      "image": "/product-img/road-construction-ldpe-sheet.webp",
+      "features": [
+        "Durable civil-grade sheeting",
+        "Effective curing moisture retention",
+        "Tear and puncture resistant",
+        "Custom gauges and widths"
+      ],
+      "applications": [
+        "Road construction curing",
+        "Moisture barrier",
+        "Surface protection",
+        "Site covering"
+      ],
+      "industries": [
+        "Road Construction",
+        "Civil Infrastructure",
+        "Construction",
+        "Municipal"
+      ],
+      "faqs": [
+        {
+          "q": "What is LDPE curing sheet used for?",
+          "a": "It retains moisture during concrete curing to ensure proper hydration and strength development."
+        }
+      ],
+      "order": 14,
+      "active": true
+    }
+  ],
+  "products": [
+    {
+      "slug": "transparent-surface-protection-tapes",
+      "name": "Transparent Surface Protection Tapes",
+      "category": "architecture-glass-tapes",
+      "blurb": "A surface protection film and tape used for temporary protection of most hard surfaces, available in high, medium and low viscosity grades.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Roll"
+        },
+        {
+          "k": "Tape Width",
+          "v": "4 Inch"
+        },
+        {
+          "k": "Tape Length",
+          "v": "20 Meter"
+        },
+        {
+          "k": "Material",
+          "v": "LDPE"
+        },
+        {
+          "k": "Brand",
+          "v": "VARDHMAN"
+        },
+        {
+          "k": "Color",
+          "v": "Transparent, Milky White, Black & White"
+        }
+      ],
+      "sizes": [
+        "4 Inch"
+      ],
+      "highlights": [
+        "High viscosity grade suits rough plastic and metal surfaces",
+        "Sticky grade protects stainless steel, aluminium and similar surfaces",
+        "Low viscosity grade suits smooth plastic surface protection"
+      ],
+      "price": "₹200 / Roll",
+      "image": "/product-img/transparent-surface-protection-tape.jpeg",
+      "images": [
+        "/product-img/transparent-surface-protection-tape.jpeg"
+      ],
+      "order": 0,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "colour-masking-tape",
+      "name": "Colour Masking Tape",
+      "category": "architecture-glass-tapes",
+      "blurb": "A colourful crepe-paper masking tape, best suited for diaries, albums and decorative trim work.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Roll"
+        },
+        {
+          "k": "Tape Width",
+          "v": ">60 mm"
+        },
+        {
+          "k": "Tape Length",
+          "v": "20 m"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Crepe Paper"
+        },
+        {
+          "k": "Brand",
+          "v": "VARDHMAN"
+        },
+        {
+          "k": "Color",
+          "v": "Multi Colours"
+        }
+      ],
+      "sizes": [
+        "18mm",
+        "24mm",
+        "48mm"
+      ],
+      "highlights": [
+        "Keeps paint cans clean and supports lids as glue dries",
+        "Used to measure hole depth and protect surfaces while cutting"
+      ],
+      "price": "₹15 / Roll",
+      "image": "/product-img/colour-masking-tape.jpg",
+      "images": [
+        "/product-img/colour-masking-tape.jpg"
+      ],
+      "order": 1,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "60-mm-epe-foam-backer-rod",
+      "name": "60 mm EPE Foam Backer Rod",
+      "category": "architecture-glass-tapes",
+      "blurb": "A round, flexible EPE foam backer rod used as backing in joints or cracks to control sealant depth and create a back stop.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Meter"
+        },
+        {
+          "k": "Diameter",
+          "v": "60 mm"
+        },
+        {
+          "k": "Material",
+          "v": "EPE Foam"
+        },
+        {
+          "k": "Rod Type",
+          "v": "Open Cell"
+        },
+        {
+          "k": "Length Per Roll",
+          "v": "25 m"
+        },
+        {
+          "k": "Application",
+          "v": "Construction Joint"
+        },
+        {
+          "k": "Color",
+          "v": "White"
+        },
+        {
+          "k": "Shape",
+          "v": "Round"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Temperature Range",
+          "v": "Up to 70°C"
+        }
+      ],
+      "sizes": [
+        "60mm"
+      ],
+      "highlights": [
+        "Increases elasticity in the joint sealant",
+        "Reduces caulk consumption by controlling sealant depth",
+        "Forces adhesive into contact with joint sides for a superior hour-glass bond"
+      ],
+      "price": "₹2 / Meter",
+      "image": "/product-img/supreme-backer-rod-250x250.webp",
+      "images": [
+        "/product-img/supreme-backer-rod-250x250.webp"
+      ],
+      "order": 2,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "red-acrylic-foam-tape",
+      "name": "Red Acrylic Foam Tape",
+      "category": "architecture-glass-tapes",
+      "blurb": "A red-liner acrylic foam tape used to hold components in place for glass-to-metal and glazing projects.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Roll"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Acrylic Foam"
+        },
+        {
+          "k": "Color",
+          "v": "Red"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Total Thickness",
+          "v": ".4mm to 2.3mm"
+        },
+        {
+          "k": "Width of Tape",
+          "v": "4mm to 1200mm"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "18mm",
+        "24mm"
+      ],
+      "highlights": [
+        "Body side mouldings and B-pillar appliques",
+        "ABS/PVC rocker panels, door edge and wheel lip mouldings",
+        "Luggage rack slats, wind & rain deflectors, dashboard overlays"
+      ],
+      "price": "₹25 / Roll",
+      "image": "/product-img/red-acrylic-foam-tape-250x250.webp",
+      "images": [
+        "/product-img/red-acrylic-foam-tape-250x250.webp"
+      ],
+      "order": 3,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "3m-vhb-acrylic-foam-transparent-tape",
+      "name": "3m vhb Acrylic Foam Transparent Tape",
+      "category": "architecture-glass-tapes",
+      "blurb": "A 3M VHB structural glazing tape — durable, two-sided acrylic foam tape for bonding glass panels into curtain wall, window/door and skylight systems.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Roll"
+        },
+        {
+          "k": "Tape Width",
+          "v": "0-20 mm"
+        },
+        {
+          "k": "Tape Length",
+          "v": "10 m"
+        },
+        {
+          "k": "Brand",
+          "v": "3M"
+        },
+        {
+          "k": "Color",
+          "v": "Transparent"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Acrylic Foam"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "19mm",
+        "25mm"
+      ],
+      "highlights": [
+        "Bonds glass panels into curtain wall, commercial window/door and skylight-canopy systems",
+        "Designed for rubber seal parts attachment such as automobile weatherstrips"
+      ],
+      "price": "₹150 / Roll",
+      "image": "/product-img/3m-vhb-acrylic-foam-transparent-tape-250x250.webp",
+      "images": [
+        "/product-img/3m-vhb-acrylic-foam-transparent-tape-250x250.webp"
+      ],
+      "order": 4,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "debonding-strip-tape",
+      "name": "Debonding Strip Tape",
+      "category": "architecture-glass-tapes",
+      "blurb": "PP de-bonding strips used as joint filler material for concrete pavement and highways, placed prior to sealant application to shape the sealed surface.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Piece"
+        },
+        {
+          "k": "Tape Length",
+          "v": "10 m"
+        },
+        {
+          "k": "Backing Material",
+          "v": "EVA, P.U"
+        },
+        {
+          "k": "Color",
+          "v": "Black & White"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        }
+      ],
+      "sizes": [
+        "6mm to 1000mm"
+      ],
+      "highlights": [
+        "Closed cell — negligible water/water-vapour absorption",
+        "Compressible, flexible and non-staining",
+        "Excellent chemical resistance to most acids and alkalis"
+      ],
+      "price": "₹60 / Piece",
+      "image": "/product-img/debonding-strip-tape-250x250.webp",
+      "images": [
+        "/product-img/debonding-strip-tape-250x250.webp"
+      ],
+      "order": 5,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "transparent-double-sided-acrylic-foam-tapes",
+      "name": "Transparent Double Sided Acrylic Foam Tapes",
+      "category": "architecture-glass-tapes",
+      "blurb": "An imported transparent acrylic foam tape used to bond glass to any kind of metal, offering excellent bonding strength and wear resistance.",
+      "specs": [
+        {
+          "k": "Brand",
+          "v": "Nitto"
+        },
+        {
+          "k": "Color",
+          "v": "Gray, Black, White & Transparent"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Commonly used to join transparent material where a clear or colourless tape is needed"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "18mm",
+        "24mm"
+      ],
+      "highlights": [
+        "High bonding strength",
+        "High resistance against wear & tear"
+      ],
+      "price": "₹144 / Roll",
+      "image": "/product-img/3m-vhb-acrylic-foam-transparent-tape-250x250.webp",
+      "images": [
+        "/product-img/3m-vhb-acrylic-foam-transparent-tape-250x250.webp"
+      ],
+      "order": 6,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "double-sided-single-sided-foam-tapes",
+      "name": "Double Sided & Single Sided Foam Tapes",
+      "category": "architecture-glass-tapes",
+      "blurb": "Single and double-sided foam tapes manufactured from premium raw material, quality-checked at every stage of assembly.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Piece"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Foam"
+        },
+        {
+          "k": "Width",
+          "v": "24 mm"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Brand",
+          "v": "VARDHMAN"
+        },
+        {
+          "k": "Color",
+          "v": "Black, White, Gray"
+        }
+      ],
+      "sizes": [
+        "9mm",
+        "12mm",
+        "19mm"
+      ],
+      "highlights": [
+        "Smooth finish and easy to use",
+        "Low maintenance on smooth surfaces"
+      ],
+      "price": "₹20 / Piece",
+      "image": "/product-img/double-sided-single-sided-foam.webp",
+      "images": [
+        "/product-img/double-sided-single-sided-foam.webp"
+      ],
+      "order": 7,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "paper-masking-tape",
+      "name": "Paper Masking Tape",
+      "category": "architecture-glass-tapes",
+      "blurb": "A high-performance crepe paper masking tape for painting, carpentry, manufacturing, art & craft use — tears cleanly and lifts off residue-free.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Piece"
+        },
+        {
+          "k": "Tape Length",
+          "v": "20 m"
+        },
+        {
+          "k": "Brand",
+          "v": "VARDHMAN"
+        },
+        {
+          "k": "Color",
+          "v": "White"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Laminates holding, glass marking, painting, dispenser masking, art & craft"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Crepe Paper"
+        }
+      ],
+      "sizes": [
+        "24mm",
+        "48mm"
+      ],
+      "highlights": [
+        "Tears easily by hand for quick, clean pieces",
+        "Zero residue removal — safe on walls, carpet and decks",
+        "Synthetic rubber adhesive built for consumer and commercial jobs"
+      ],
+      "price": "₹13 / Piece",
+      "image": "/product-img/paper-masking-tape.webp",
+      "images": [
+        "/product-img/paper-masking-tape.webp"
+      ],
+      "order": 8,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "dow-corning-795-silicone-sealant",
+      "name": "Dow Corning 795 Silicone Sealant",
+      "category": "architecture-glass-tapes",
+      "blurb": "DOWSIL 795 neutral, one-part silicone building sealant offering versatile structural glazing and weather sealing performance in a single product.",
+      "specs": [
+        {
+          "k": "Packaging Size",
+          "v": "600 ml"
+        },
+        {
+          "k": "Model",
+          "v": "Dowsil 795"
+        },
+        {
+          "k": "Color",
+          "v": "Black"
+        },
+        {
+          "k": "Packaging Type",
+          "v": "Tube"
+        },
+        {
+          "k": "Compatible Material",
+          "v": "Glass"
+        },
+        {
+          "k": "Nozzle",
+          "v": "With Nozzle"
+        },
+        {
+          "k": "Features",
+          "v": "Weathersealing"
+        },
+        {
+          "k": "Chemical Resistance",
+          "v": "Acids"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "Cartridge"
+      ],
+      "highlights": [
+        "Excellent weatherability from -40°F to 300°F, unaffected by sun, rain, snow and ozone",
+        "Excellent unprimed adhesion to anodized, alodined, coated and Kynar-painted aluminium",
+        "Used for structural/nonstructural glazing, panel stiffeners and weather sealing"
+      ],
+      "price": "₹500 / Piece",
+      "image": "/product-img/dow-corning-795-silicone-sealant-250x250.webp",
+      "images": [
+        "/product-img/dow-corning-795-silicone-sealant-250x250.webp"
+      ],
+      "order": 9,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "dow-corning-991-silicone-sealants",
+      "name": "Dow Corning 991 Silicone Sealants",
+      "category": "architecture-glass-tapes",
+      "blurb": "DOWSIL 991 medium-modulus silicone sealant formulated to weatherproof sensitive natural stone, glass and metal panels without staining.",
+      "specs": [
+        {
+          "k": "Packaging Size",
+          "v": "591 ml"
+        },
+        {
+          "k": "Color",
+          "v": "Black"
+        },
+        {
+          "k": "Compatible Material",
+          "v": "Glass"
+        },
+        {
+          "k": "Item Form",
+          "v": "Paste"
+        },
+        {
+          "k": "Nozzle",
+          "v": "With Nozzle"
+        },
+        {
+          "k": "Features",
+          "v": "Weathersealing"
+        },
+        {
+          "k": "Applications",
+          "v": "Structural and Nonstructural glazing"
+        }
+      ],
+      "sizes": [
+        "Cartridge"
+      ],
+      "highlights": [
+        "Non-staining on natural stone, reduces residue rundown on metal/glass panels",
+        "High-movement capability — accommodates ±50% joint movement",
+        "Good unprimed adhesion to stone, glass, metal, ceramic tile and anodized aluminium"
+      ],
+      "price": "₹725 / Piece",
+      "image": "/product-img/dow-corning-991-silicone-sealants-250x250.webp",
+      "images": [
+        "/product-img/dow-corning-991-silicone-sealants-250x250.webp"
+      ],
+      "order": 10,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "dow-corning-789-silicone-sealant-weather-proofng",
+      "name": "Dow Corning 789 Silicone Sealant weather Proofng",
+      "category": "architecture-glass-tapes",
+      "blurb": "DOWSIL 789 silicone sealant for weatherproofing glass and aluminium building joints.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Unit"
+        },
+        {
+          "k": "Packaging Size",
+          "v": "600 ml"
+        },
+        {
+          "k": "Model",
+          "v": "Dowsil 789"
+        },
+        {
+          "k": "Compatible Material",
+          "v": "Glass"
+        },
+        {
+          "k": "Nozzle",
+          "v": "With Nozzle"
+        },
+        {
+          "k": "Features",
+          "v": "Weathersealing"
+        },
+        {
+          "k": "Chemical Resistance",
+          "v": "Acids"
+        },
+        {
+          "k": "Applications",
+          "v": "Waterproofing"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "Cartridge"
+      ],
+      "highlights": [
+        "Compatible with glass and aluminium substrates",
+        "Waterproof, weathersealing formulation"
+      ],
+      "price": "₹300 / Unit",
+      "image": "/product-img/dow-corning-789-silicone-sealant-weather-proofng-250x250.webp",
+      "images": [
+        "/product-img/dow-corning-789-silicone-sealant-weather-proofng-250x250.webp"
+      ],
+      "order": 11,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "single-sided-and-double-sided-eva-foam-tapes",
+      "name": "Single Sided and Double Sided Eva Foam Tapes",
+      "category": "architecture-glass-tapes",
+      "blurb": "Hot-melt, solvent, water-base or rubber-base EVA foam tape for permanent fixing on irregular surfaces, with strong crack resistance.",
+      "specs": [
+        {
+          "k": "Tape Width",
+          "v": ">100 mm"
+        },
+        {
+          "k": "Tape Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Brand",
+          "v": "VARDHMAN, DEER, NITTO"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Sealing and anti-slip purposes, easy to cut to size"
+        },
+        {
+          "k": "Color",
+          "v": "Black and White, multi colour on order"
+        }
+      ],
+      "sizes": [
+        "9mm",
+        "12mm",
+        "19mm"
+      ],
+      "highlights": [
+        "EVA backing, strong adhesive, good vibration mitigation",
+        "Anti-solvent, heat resistant and strong crack resistance",
+        "Used for permanent fixing, mounting decorative objects and nameplates"
+      ],
+      "price": "₹50 / Piece",
+      "image": "/product-img/single-sided-and-double-sided-eva-foam-tapes-250x250.webp",
+      "images": [
+        "/product-img/single-sided-and-double-sided-eva-foam-tapes-250x250.webp"
+      ],
+      "order": 12,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "3m-curtain-wall-bonding-tapes",
+      "name": "3m Curtain Wall Bonding Tapes",
+      "category": "architecture-glass-tapes",
+      "blurb": "A pressure-sensitive double-side acrylic adhesive tape for bonding glass to painted and unpainted metal in structural curtain-wall projects.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Roll"
+        },
+        {
+          "k": "Tape Width",
+          "v": "100 mm"
+        },
+        {
+          "k": "Material",
+          "v": "Acrylic Foam"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Sealing"
+        },
+        {
+          "k": "Tape Length",
+          "v": "10 m"
+        },
+        {
+          "k": "Size",
+          "v": "1/2 inch"
+        },
+        {
+          "k": "Brand",
+          "v": "3m"
+        },
+        {
+          "k": "Color",
+          "v": "Black, Gray"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "19mm"
+      ],
+      "highlights": [
+        "Supplied in rolls up to 8.5 m with red/white PE release liner",
+        "Greater bonding strength, damps vibration and absorbs impact",
+        "Effective in corrosion protection"
+      ],
+      "price": "₹100 / Roll",
+      "image": "/product-img/curtain-wall-tapes-250x250.webp",
+      "images": [
+        "/product-img/curtain-wall-tapes-250x250.webp"
+      ],
+      "order": 13,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "spacer-tape",
+      "name": "Spacer Tape",
+      "category": "architecture-glass-tapes",
+      "blurb": "A foam spacer tape with pressure-sensitive adhesive coated on both sides, used in glazing and cladding applications.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Piece"
+        },
+        {
+          "k": "Tape Length",
+          "v": "20 m"
+        },
+        {
+          "k": "Tape Width",
+          "v": "20 mm"
+        },
+        {
+          "k": "Backing Material",
+          "v": "EVA, Acrylic, P.E, P.U, EPE Foam"
+        },
+        {
+          "k": "Color",
+          "v": "Black & White, multi colour on order"
+        },
+        {
+          "k": "Brand",
+          "v": "VARDHMAN, NORTON, 3M"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "6mm",
+        "9mm",
+        "12mm"
+      ],
+      "highlights": [
+        "Durable foam tape with adhesive on both sides",
+        "Available in different thicknesses per requirement",
+        "Used in glazing / cladding applications"
+      ],
+      "price": "₹50 / Piece",
+      "image": "/product-img/spacer-tape-250x250.webp",
+      "images": [
+        "/product-img/spacer-tape-250x250.webp"
+      ],
+      "order": 14,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "norton-spacer-tape",
+      "name": "Norton Spacer Tape",
+      "category": "architecture-glass-tapes",
+      "blurb": "Saint-Gobain (Norton) open-cell polyurethane structural glazing spacer tape for interior and exterior glass fixing across construction.",
+      "specs": [
+        {
+          "k": "Backing Material",
+          "v": "Open-celled polyurethane foam"
+        },
+        {
+          "k": "Color",
+          "v": "Blue release liner with black foam"
+        },
+        {
+          "k": "Brand",
+          "v": "Saint Gobain (Norton)"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Structural glazing tape for interior and exterior glass fixing"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Total Thickness",
+          "v": "6.4 mm"
+        }
+      ],
+      "sizes": [
+        "6mm",
+        "9mm",
+        "12mm"
+      ],
+      "highlights": [
+        "Open-cell structure lets air/moisture reach the silicone for optimum curing",
+        "UV-resistant adhesive minimises colour change",
+        "Suited to 2-sided & 4-sided structural glazing and thermal breaks"
+      ],
+      "price": "₹60 / Piece",
+      "image": "/product-img/norton-spacer-tape-250x250.webp",
+      "images": [
+        "/product-img/norton-spacer-tape-250x250.webp"
+      ],
+      "order": 15,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "3-inch-transparent-tapes",
+      "name": "3 Inch Transparent Tapes",
+      "category": "tape",
+      "blurb": "A BOPP transparent packaging tape supplied on a 3-inch core with a printable acrylic-adhesive finish for general packing.",
+      "specs": [
+        {
+          "k": "Width",
+          "v": "72mm"
+        },
+        {
+          "k": "Length",
+          "v": "50m"
+        },
+        {
+          "k": "Material",
+          "v": "BOPP"
+        },
+        {
+          "k": "Color",
+          "v": "Transparent"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Acrylic"
+        },
+        {
+          "k": "Core Size",
+          "v": "3 inch"
+        },
+        {
+          "k": "Items per Pack",
+          "v": "12"
+        },
+        {
+          "k": "Application",
+          "v": "General Packing"
+        },
+        {
+          "k": "Features",
+          "v": "Printable"
+        }
+      ],
+      "sizes": [
+        "72mm"
+      ],
+      "highlights": [
+        "General-purpose carton and box sealing",
+        "Printable surface for branding"
+      ],
+      "price": "₹1,000 / Box",
+      "image": "/product-img/3-inch-transparent.jpg",
+      "images": [
+        "/product-img/3-inch-transparent.jpg"
+      ],
+      "order": 16,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "double-sided-polyester-tape",
+      "name": "Double Sided Polyester Tape",
+      "category": "tape",
+      "blurb": "A red-liner polyester double-sided tape with acrylic adhesive for general-purpose mounting and splicing.",
+      "specs": [
+        {
+          "k": "Width",
+          "v": "24 mm (1 inch)"
+        },
+        {
+          "k": "Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Application",
+          "v": "General Purpose"
+        },
+        {
+          "k": "Color",
+          "v": "Red"
+        },
+        {
+          "k": "Liner Type",
+          "v": "Paper Liner"
+        },
+        {
+          "k": "Tape Material",
+          "v": "Polyester"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Acrylic"
+        }
+      ],
+      "sizes": [
+        "6mm",
+        "12mm",
+        "24mm"
+      ],
+      "highlights": [
+        "High-strength polyester backing for mounting and splicing"
+      ],
+      "price": "₹100 / Piece",
+      "image": "/product-img/s-l1000-jpg-250x250.webp",
+      "images": [
+        "/product-img/s-l1000-jpg-250x250.webp"
+      ],
+      "order": 17,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "double-sided-adhesive-tape",
+      "name": "Double Sided Adhesive Tape",
+      "category": "tape",
+      "blurb": "An acrylic VHB-grade double-sided tape on a paper liner for general-purpose bonding.",
+      "specs": [
+        {
+          "k": "Tape Material",
+          "v": "Acrylic (VHB)"
+        },
+        {
+          "k": "Width",
+          "v": "24 mm (1 inch)"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Acrylic"
+        },
+        {
+          "k": "Length",
+          "v": "10 m"
+        },
+        {
+          "k": "Application",
+          "v": "General Purpose"
+        },
+        {
+          "k": "Color",
+          "v": "Red"
+        },
+        {
+          "k": "Liner Type",
+          "v": "Paper Liner"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "18mm",
+        "24mm"
+      ],
+      "highlights": [
+        "VHB-grade acrylic for high-strength general bonding"
+      ],
+      "price": "₹50 / Piece",
+      "image": "/product-img/acrylic-foam-tapes-250x250.webp",
+      "images": [
+        "/product-img/acrylic-foam-tapes-250x250.webp"
+      ],
+      "order": 18,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "3m-double-sided-adhesive-tapes",
+      "name": "3m Double Sided Adhesive Tapes",
+      "category": "tape",
+      "blurb": "A 3M-grade transparent VHB acrylic double-sided tape suited to automotive and general-purpose mounting.",
+      "specs": [
+        {
+          "k": "Tape Material",
+          "v": "Acrylic (VHB)"
+        },
+        {
+          "k": "Width",
+          "v": "18 mm (0.75 inch)"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Acrylic"
+        },
+        {
+          "k": "Application",
+          "v": "Automotive, General Purpose"
+        },
+        {
+          "k": "Color",
+          "v": "Transparent"
+        },
+        {
+          "k": "Liner Type",
+          "v": "Paper Liner"
+        },
+        {
+          "k": "Length",
+          "v": "10 m"
+        },
+        {
+          "k": "Brand",
+          "v": "3M"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "24mm"
+      ],
+      "highlights": [
+        "Suited to automotive trim and general-purpose mounting"
+      ],
+      "price": "₹90 / Piece",
+      "image": "/product-img/3m-transparent-tape-250x250.webp",
+      "images": [
+        "/product-img/3m-transparent-tape-250x250.webp"
+      ],
+      "order": 19,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "adhesive-double-sided-tape",
+      "name": "Adhesive Double Sided Tape",
+      "category": "tape",
+      "blurb": "A red VHB acrylic double-sided tape for general-purpose and structural glazing use.",
+      "specs": [
+        {
+          "k": "Tape Material",
+          "v": "Acrylic (VHB)"
+        },
+        {
+          "k": "Width",
+          "v": "24 mm (1 inch)"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Acrylic"
+        },
+        {
+          "k": "Length",
+          "v": "5 m"
+        },
+        {
+          "k": "Application",
+          "v": "General Purpose, Structural Glazing"
+        },
+        {
+          "k": "Color",
+          "v": "Red"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "24mm"
+      ],
+      "highlights": [
+        "Suitable for general-purpose and structural glazing bonding"
+      ],
+      "price": "₹100 / Piece",
+      "image": "/product-img/double-sided-single-sided-foam-tapes-250x250.webp",
+      "images": [
+        "/product-img/double-sided-single-sided-foam-tapes-250x250.webp"
+      ],
+      "order": 20,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "3m-double-sided-tape",
+      "name": "3m Double Sided Tape",
+      "category": "tape",
+      "blurb": "A 3M-grade white foam-carrier double-sided tape with acrylic adhesive for general-purpose mounting.",
+      "specs": [
+        {
+          "k": "Width",
+          "v": "24 mm (1 inch)"
+        },
+        {
+          "k": "Application",
+          "v": "General Purpose"
+        },
+        {
+          "k": "Color",
+          "v": "White"
+        },
+        {
+          "k": "Liner Type",
+          "v": "Paper Liner"
+        },
+        {
+          "k": "Tape Material",
+          "v": "Foam"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Acrylic"
+        },
+        {
+          "k": "Length",
+          "v": "10 m"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "24mm"
+      ],
+      "highlights": [
+        "Foam carrier for uneven-surface mounting"
+      ],
+      "price": "₹200 / Piece",
+      "image": "/product-img/3m-pe-foam-tapes-250x250.webp",
+      "images": [
+        "/product-img/3m-pe-foam-tapes-250x250.webp"
+      ],
+      "order": 21,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "double-sided-tissue-tapes",
+      "name": "Double Sided Tissue Tapes",
+      "category": "tape",
+      "blurb": "A hot-melt tissue-carrier double-sided tape for stationery and lamination work.",
+      "specs": [
+        {
+          "k": "Tape Width",
+          "v": "24 mm"
+        },
+        {
+          "k": "Tape Length",
+          "v": "40 m"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Hot Melt"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Tissue"
+        },
+        {
+          "k": "Applications",
+          "v": "Stationery, Lamination"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "18mm",
+        "24mm"
+      ],
+      "highlights": [
+        "Suited to stationery mounting and lamination"
+      ],
+      "price": "₹50 / Piece",
+      "image": "/product-img/double-sided-tissue-tape-with-solvent-acrylic-adhesive-jpg-250x250.webp",
+      "images": [
+        "/product-img/double-sided-tissue-tape-with-solvent-acrylic-adhesive-jpg-250x250.webp"
+      ],
+      "order": 22,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "double-sided-tape",
+      "name": "Double Sided Tape",
+      "category": "tape",
+      "blurb": "A VHB acrylic double-sided tape for general-purpose and structural glazing bonding.",
+      "specs": [
+        {
+          "k": "Tape Material",
+          "v": "Acrylic (VHB)"
+        },
+        {
+          "k": "Width",
+          "v": "24 mm (1 inch)"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Acrylic"
+        },
+        {
+          "k": "Length",
+          "v": "5 m"
+        },
+        {
+          "k": "Application",
+          "v": "General Purpose, Structural Glazing"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "24mm"
+      ],
+      "highlights": [
+        "Suitable for general-purpose and structural glazing bonding"
+      ],
+      "price": "₹100 / Piece",
+      "image": "/product-img/double-sided.jpg",
+      "images": [
+        "/product-img/double-sided.jpg"
+      ],
+      "order": 23,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "double-sided-adhesive-tissue-tapes",
+      "name": "Double Sided Adhesive Tissue Tapes",
+      "category": "tape",
+      "blurb": "A 3M-grade white hot-melt tissue tape for general-purpose and automotive mounting.",
+      "specs": [
+        {
+          "k": "Tape Material",
+          "v": "Tissue"
+        },
+        {
+          "k": "Width",
+          "v": "24 mm (1 inch)"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Hotmelt"
+        },
+        {
+          "k": "Application",
+          "v": "General Purpose, Automotive"
+        },
+        {
+          "k": "Color",
+          "v": "White"
+        },
+        {
+          "k": "Liner Type",
+          "v": "Paper Liner"
+        },
+        {
+          "k": "Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Brand",
+          "v": "3M"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "18mm"
+      ],
+      "highlights": [
+        "Suited to general-purpose and automotive mounting"
+      ],
+      "price": "₹100 / Roll",
+      "image": "/product-img/3m-tissue-tapes-250x250.webp",
+      "images": [
+        "/product-img/3m-tissue-tapes-250x250.webp"
+      ],
+      "order": 24,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "adhesive-double-sided-foam-tape",
+      "name": "Adhesive Double Sided Foam Tape",
+      "category": "tape",
+      "blurb": "A 3M-grade black foam double-sided tape on a film liner for structural glazing and automotive use.",
+      "specs": [
+        {
+          "k": "Width",
+          "v": "48 mm (2 inch)"
+        },
+        {
+          "k": "Application",
+          "v": "Structural Glazing, Automotive"
+        },
+        {
+          "k": "Color",
+          "v": "Black"
+        },
+        {
+          "k": "Liner Type",
+          "v": "Film Liner"
+        },
+        {
+          "k": "Tape Material",
+          "v": "Foam"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Acrylic"
+        },
+        {
+          "k": "Length",
+          "v": "10 m"
+        },
+        {
+          "k": "Brand",
+          "v": "3M"
+        }
+      ],
+      "sizes": [
+        "9mm",
+        "12mm",
+        "19mm"
+      ],
+      "highlights": [
+        "Suited to structural glazing and automotive mounting"
+      ],
+      "price": "₹25 / Piece",
+      "image": "/product-img/1000251388-jpg-250x250.webp",
+      "images": [
+        "/product-img/1000251388-jpg-250x250.webp"
+      ],
+      "order": 25,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "3m-adhesive-double-sided-tissue-tapes",
+      "name": "3m Adhesive Double Sided Tissue Tapes",
+      "category": "tape",
+      "blurb": "A 3M-grade white foam-carrier double-sided tape for general-purpose mounting.",
+      "specs": [
+        {
+          "k": "Width",
+          "v": "24 mm (1 inch)"
+        },
+        {
+          "k": "Application",
+          "v": "General Purpose"
+        },
+        {
+          "k": "Color",
+          "v": "White"
+        },
+        {
+          "k": "Tape Material",
+          "v": "Foam"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Acrylic"
+        },
+        {
+          "k": "Length",
+          "v": "10 m"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "18mm"
+      ],
+      "highlights": [
+        "General-purpose mounting tape"
+      ],
+      "price": "₹170 / Piece",
+      "image": "/product-img/3m-adhesive-tissue-tapes-250x250.webp",
+      "images": [
+        "/product-img/3m-adhesive-tissue-tapes-250x250.webp"
+      ],
+      "order": 26,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "transparent-cello-tape",
+      "name": "Transparent Cello Tape",
+      "category": "tape",
+      "blurb": "A clear BOPP cello tape for everyday office, retail and light packaging use.",
+      "specs": [
+        {
+          "k": "Tape Width",
+          "v": "2 Inch"
+        },
+        {
+          "k": "Material",
+          "v": "BOPP"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "18mm",
+        "24mm"
+      ],
+      "highlights": [
+        "Everyday office, retail and packaging use"
+      ],
+      "price": "₹1,800 / Box",
+      "image": "/product-img/bopp-tape-250x250.webp",
+      "images": [
+        "/product-img/bopp-tape-250x250.webp"
+      ],
+      "order": 27,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "marking-tapes",
+      "name": "Marking Tapes",
+      "category": "tape",
+      "blurb": "A white adhesive marking tape used for coding and identification.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "2 Box"
+        },
+        {
+          "k": "Tape Width",
+          "v": "20 mm"
+        },
+        {
+          "k": "Color",
+          "v": "White"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "18mm",
+        "24mm"
+      ],
+      "highlights": [
+        "Coding, identification and general marking"
+      ],
+      "price": "₹12.5 / Box",
+      "image": "/product-img/masking-tape-250x250.webp",
+      "images": [
+        "/product-img/masking-tape-250x250.webp"
+      ],
+      "order": 28,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "abro-masking-tapes",
+      "name": "ABRO Masking Tapes",
+      "category": "tape",
+      "blurb": "A general-purpose adhesive masking tape for painting and holding.",
+      "specs": [
+        {
+          "k": "Tape Width",
+          "v": "1 Inch"
+        },
+        {
+          "k": "Tape Length",
+          "v": "20 m"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "18mm",
+        "24mm",
+        "48mm"
+      ],
+      "highlights": [
+        "General-purpose painting and holding tape"
+      ],
+      "price": "₹10 / Roll",
+      "image": "/product-img/anti-skid-and-slippery-tapes-250x250.webp",
+      "images": [
+        "/product-img/anti-skid-and-slippery-tapes-250x250.webp"
+      ],
+      "order": 29,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "double-sided-foam-tape",
+      "name": "Double Sided Foam Tape",
+      "category": "tape",
+      "blurb": "An EVA foam double-sided tape with acrylic adhesive for automotive mounting on uneven surfaces.",
+      "specs": [
+        {
+          "k": "Tape Width",
+          "v": "24 mm"
+        },
+        {
+          "k": "Foam Thickness",
+          "v": "1 mm"
+        },
+        {
+          "k": "Foam Type",
+          "v": "EVA Foam"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Acrylic"
+        },
+        {
+          "k": "Tape Length",
+          "v": "10 m"
+        },
+        {
+          "k": "Applications",
+          "v": "Automotive"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "19mm",
+        "24mm"
+      ],
+      "highlights": [
+        "Mounts signs, panels and fixtures on uneven surfaces"
+      ],
+      "price": "₹40 / Roll",
+      "image": "/product-img/double-sided-single-sided-foam-tapes.webp",
+      "images": [
+        "/product-img/double-sided-single-sided-foam-tapes.webp"
+      ],
+      "order": 30,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "double-sided-cotton-flexo-printing-tape",
+      "name": "Double Sided Cotton Flexo Printing Tape",
+      "category": "label-printing-tape",
+      "blurb": "A pressure-sensitive cotton cloth tape with silicone polyester/paper liner used to mount stereo plates on printing rollers in flexo printing.",
+      "specs": [
+        {
+          "k": "Backing Material",
+          "v": "Cotton Cloth"
+        },
+        {
+          "k": "Tape Length",
+          "v": "20 m"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Flexo Printing"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        }
+      ],
+      "sizes": [
+        "480mm roll"
+      ],
+      "highlights": [
+        "High-tack rubber base adhesive for flexo plate mounting",
+        "Simonized yellow/white release liner or PET film liner",
+        "Gives a good number of impressions before the tape is exhausted"
+      ],
+      "price": "₹75 / Roll",
+      "image": "/product-img/double-sided-cotton-flexo-printing-tape-250x250.webp",
+      "images": [
+        "/product-img/double-sided-cotton-flexo-printing-tape-250x250.webp"
+      ],
+      "order": 31,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "double-sided-clear-polyester-tapes",
+      "name": "Double Sided Clear Polyester Tapes",
+      "category": "label-printing-tape",
+      "blurb": "A clear double-sided PET tape with acrylic adhesive for bonding and laminating flexible and rigid materials.",
+      "specs": [
+        {
+          "k": "Backing Material",
+          "v": "Polyester"
+        },
+        {
+          "k": "Width",
+          "v": "24 mm"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Tape Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Bonding and laminating flexible and rigid materials"
+        },
+        {
+          "k": "Color",
+          "v": "Clear"
+        }
+      ],
+      "sizes": [
+        "9mm",
+        "12mm"
+      ],
+      "highlights": [
+        "Clear glass tape and temporary phone screen repair",
+        "Bonding glass and plastics; POS stands, signs and displays",
+        "Use with wooden mouldings"
+      ],
+      "price": "₹140 / Piece",
+      "image": "/product-img/double-sided-clear-polyester-tapes.png",
+      "images": [
+        "/product-img/double-sided-clear-polyester-tapes.png"
+      ],
+      "order": 32,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "double-sided-tissue-tapes",
+      "name": "Double Sided Tissue Tapes",
+      "category": "label-printing-tape",
+      "blurb": "A solvent/hot-melt/water-base tissue tape used for foam and felt lamination, splicing and mounting across industries.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Roll"
+        },
+        {
+          "k": "Tape Width",
+          "v": "1 Inch"
+        },
+        {
+          "k": "Tape Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Solvent, Hot Melt, Water Base"
+        },
+        {
+          "k": "Color",
+          "v": "Transparent"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "18mm"
+      ],
+      "highlights": [
+        "Foam and felt lamination in automobile and appliance manufacturing",
+        "Splicing films/paper/oils; mounting nameplates and stickers",
+        "Easy tear-off with excellent adhesive property"
+      ],
+      "price": "₹60 / Roll",
+      "image": "/product-img/tissue-tapes-250x250.webp",
+      "images": [
+        "/product-img/tissue-tapes-250x250.webp"
+      ],
+      "order": 33,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "paper-application-tape",
+      "name": "Paper Application Tape",
+      "category": "label-printing-tape",
+      "blurb": "A medium-to-high tack transfer/lifting tape for applying self-adhesive lettering, logos and screen-printed graphics.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Piece"
+        },
+        {
+          "k": "Packaging Type",
+          "v": "Roll Form"
+        }
+      ],
+      "sizes": [
+        "100mm",
+        "300mm"
+      ],
+      "highlights": [
+        "Easy transfer of graphics from small pieces to large plotter-cut letters",
+        "Transparent film shows colours and shapes during application",
+        "Easy handling and clean removal"
+      ],
+      "price": "₹55 / Piece",
+      "image": "/product-img/paper-application-tape.png",
+      "images": [
+        "/product-img/paper-application-tape.png"
+      ],
+      "order": 34,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "red-polyester-tapes",
+      "name": "Red Polyester Tapes",
+      "category": "label-printing-tape",
+      "blurb": "A red polyester film tape with pressure-sensitive acrylic adhesive and high tensile-strength backing for graphic arts, photography and electronics.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Roll"
+        },
+        {
+          "k": "Tape Width",
+          "v": "1 Inch"
+        },
+        {
+          "k": "Tape Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Red PE Film"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Color",
+          "v": "RED"
+        }
+      ],
+      "sizes": [
+        "9mm",
+        "12mm",
+        "19mm"
+      ],
+      "highlights": [
+        "Thin, high-strength backing for butt splicing and core starting",
+        "Chemical and solvent resistant, abrasion resistant",
+        "High tear and temperature resistance for long-term aging"
+      ],
+      "price": "₹144 / Roll",
+      "image": "/product-img/red-polyester-tapes-250x250.webp",
+      "images": [
+        "/product-img/red-polyester-tapes-250x250.webp"
+      ],
+      "order": 35,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "red-pe-release-liner",
+      "name": "Red Pe Release Liner",
+      "category": "label-printing-tape",
+      "blurb": "An 80 GSM red silicone-coated PE release liner used in building, labelling, medical and adhesive coating applications.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Kg"
+        },
+        {
+          "k": "GSM",
+          "v": "80 GSM"
+        },
+        {
+          "k": "Coating Type",
+          "v": "Silicone Coated"
+        },
+        {
+          "k": "Coating Side",
+          "v": "PE silicone Coating"
+        },
+        {
+          "k": "Color",
+          "v": "Red"
+        },
+        {
+          "k": "Packing Type",
+          "v": "Box"
+        }
+      ],
+      "sizes": [
+        "Custom"
+      ],
+      "highlights": [
+        "Supplied for building/construction, labelling, medical and industrial markets",
+        "Max coating width 1580mm with custom sizes and lengths on request"
+      ],
+      "price": "₹120 / Kg",
+      "image": "/product-img/red-pe-release-liner-250x250.webp",
+      "images": [
+        "/product-img/red-pe-release-liner-250x250.webp"
+      ],
+      "order": 36,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "silicone-coated-release-liner-paper",
+      "name": "Silicone Coated Release Liner Paper",
+      "category": "label-printing-tape",
+      "blurb": "Double-sided Havana glassine silicone-coated release paper used in adhesive tape manufacturing and label production.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Kg"
+        },
+        {
+          "k": "Color",
+          "v": "White, Yellow, Blue & Brown"
+        },
+        {
+          "k": "Coating Side",
+          "v": "Double side & Single Side"
+        },
+        {
+          "k": "GSM",
+          "v": "30 to 200"
+        },
+        {
+          "k": "Size",
+          "v": "20 x 30"
+        },
+        {
+          "k": "Customized",
+          "v": "As per customer requirement"
+        }
+      ],
+      "sizes": [
+        "Custom"
+      ],
+      "highlights": [
+        "Good smoothness, heat resistant and non-stick",
+        "Used as interliner for pressing/moulding of prepreg coils and rubber sheeting"
+      ],
+      "price": "₹120 / Kg",
+      "image": "/product-img/silicone-coated-paper-for-stickers-250x250.webp",
+      "images": [
+        "/product-img/silicone-coated-paper-for-stickers-250x250.webp"
+      ],
+      "order": 37,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "double-sided-paper-polyester-tapes",
+      "name": "Double Sided Paper Polyester Tapes",
+      "category": "label-printing-tape",
+      "blurb": "A polyester-backed double-sided tape used to boost assembly productivity with resilient bonding across substrates.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "10 Piece"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Polyester"
+        },
+        {
+          "k": "Tape Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Boost assembly productivity with resilient bonding"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "19mm"
+      ],
+      "highlights": [
+        "Good resistance to UV rays, most chemicals and solvents",
+        "Excellent bonding/shear strength for plastic, metal and wooden substrates",
+        "Suited to splicing paper and clear photographic mounting"
+      ],
+      "price": "₹144 / Piece",
+      "image": "/product-img/double-sided-paper-polyester-tapes-250x250.webp",
+      "images": [
+        "/product-img/double-sided-paper-polyester-tapes-250x250.webp"
+      ],
+      "order": 38,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "3m-double-sided-tissue-tape",
+      "name": "3m Double Sided Tissue Tape",
+      "category": "label-printing-tape",
+      "blurb": "3M Double Coated Tissue Tape (91091) — a 5.0-mil, 340 high-tack acrylic adhesive tape for end-tabbing, bonding fabric and attaching foam to plastics.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "10 Piece"
+        },
+        {
+          "k": "Tape Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Brand",
+          "v": "3m"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Tissue"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Acrylic Solvent"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Excellent peel, tack and shear strength for rigorous splicing"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "18mm"
+      ],
+      "highlights": [
+        "Excellent performance at high and low temperatures",
+        "Versatile adhesion to kraft, coated papers and plastic",
+        "Used for end-tabbing, foam-to-plastic bonding and closing chipboard mailers"
+      ],
+      "price": "₹220 / Piece",
+      "image": "/product-img/3m-tissue-tapes-250x250.webp",
+      "images": [
+        "/product-img/3m-tissue-tapes-250x250.webp"
+      ],
+      "order": 39,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "single-sided-pe-coated-paper",
+      "name": "Single Sided Pe Coated Paper",
+      "category": "label-printing-tape",
+      "blurb": "A food-grade single-side PE coated paper (50 GSM, 12-micron PE) for food wrap and paper cup applications.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Kg"
+        },
+        {
+          "k": "GSM",
+          "v": "50 gsm"
+        },
+        {
+          "k": "PE Thickness",
+          "v": "12 micron"
+        },
+        {
+          "k": "Usage",
+          "v": "Food Wrap, Paper Cup"
+        },
+        {
+          "k": "Coating Side",
+          "v": "Single Side"
+        },
+        {
+          "k": "Form",
+          "v": "Roll"
+        },
+        {
+          "k": "Food Grade",
+          "v": "Yes"
+        },
+        {
+          "k": "Sealing Type",
+          "v": "Heat Sealable"
+        },
+        {
+          "k": "Width",
+          "v": "500 mm"
+        },
+        {
+          "k": "Pulp Material",
+          "v": "Wood Pulp"
+        },
+        {
+          "k": "Color",
+          "v": "Printed"
+        }
+      ],
+      "sizes": [
+        "Custom"
+      ],
+      "highlights": [
+        "FDA-compliant, protects against liquids like oil and water",
+        "Used for bag closures, ream wrap and freezer/meat wrapping"
+      ],
+      "price": "₹100 / Kg",
+      "image": "/product-img/single-sided-pe-coated-paper-250x250.webp",
+      "images": [
+        "/product-img/single-sided-pe-coated-paper-250x250.webp"
+      ],
+      "order": 40,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "hair-wig-tape",
+      "name": "Hair Wig Tape",
+      "category": "label-printing-tape",
+      "blurb": "A waterproof, transparent double-sided wig tape for attaching hair systems in minutes with no residue.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Piece"
+        },
+        {
+          "k": "Hair Type",
+          "v": "All Type Hair"
+        },
+        {
+          "k": "Gender",
+          "v": "Unisex"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Parlour"
+        },
+        {
+          "k": "Brand",
+          "v": "German Brown"
+        },
+        {
+          "k": "Pattern",
+          "v": "Roll"
+        }
+      ],
+      "sizes": [
+        "Custom shapes"
+      ],
+      "highlights": [
+        "Waterproof — safe for shampoo/conditioner use",
+        "Easy to apply in small cut pieces",
+        "Leaves no residue"
+      ],
+      "price": "₹30 / Piece",
+      "image": "/product-img/hair-wig-tape-250x250.webp",
+      "images": [
+        "/product-img/hair-wig-tape-250x250.webp"
+      ],
+      "order": 41,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "hdpe-pe-silicone-coated-release-liner",
+      "name": "Hdpe Pe Silicone Coated Release Liner",
+      "category": "label-printing-tape",
+      "blurb": "An LDPE release film coated with silicone oil, applied to prevent sticking and protect the shape/viscosity of adhesive colloids.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Kg"
+        },
+        {
+          "k": "Coating Type",
+          "v": "Silicone Coated"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Tape Manufacturing"
+        },
+        {
+          "k": "Coating Side",
+          "v": "Single Side & Double Side"
+        },
+        {
+          "k": "Color",
+          "v": "Red & Blue"
+        },
+        {
+          "k": "Size",
+          "v": "100 cm to 15 cm"
+        }
+      ],
+      "sizes": [
+        "Custom"
+      ],
+      "highlights": [
+        "Beautiful appearance and easy, residue-free peeling",
+        "High temperature resistance and soft, easy-paste feel"
+      ],
+      "price": "₹120 / Kg",
+      "image": "/product-img/ldpe-silicone-coated-release-liner-250x250.webp",
+      "images": [
+        "/product-img/ldpe-silicone-coated-release-liner-250x250.webp"
+      ],
+      "order": 42,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "gum-transfer-paper-tape",
+      "name": "Gum Transfer Paper Tape",
+      "category": "label-printing-tape",
+      "blurb": "A paper/polyester gum transfer tape providing outstanding adhesion to silicones for lamination and graphic transfer processes.",
+      "specs": [
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Paper & Polyester"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Transfer and orientation of coloured vinyl and label graphics"
+        }
+      ],
+      "sizes": [
+        "100mm",
+        "300mm"
+      ],
+      "highlights": [
+        "Used as a laminating tape on signs, graphics and plaques",
+        "Adds high stability and additional bonding strength"
+      ],
+      "price": "₹100 / Piece",
+      "image": "/product-img/gum-transfer-paper-tape-250x250.webp",
+      "images": [
+        "/product-img/gum-transfer-paper-tape-250x250.webp"
+      ],
+      "order": 43,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "polyester-electric-tapes",
+      "name": "Polyester Electric Tapes",
+      "category": "electrical-tapes",
+      "blurb": "A 3M-brand polyester film insulation tape for end-turns, inner-layer insulation and wrapping capacitors, wire harnesses and motors. Polyester Film Electrical Tape 1350F is a yellow, white or black, UL recognized flame retardant, 2.5-mil (0.064 mm) or 3.5-mil (0.089 mm) thick tape composed of a 1-mil (0.025 mm) or 2-mil (0.051 mm) polyester film backing coated on one side with a non-corrosive, acrylic pressure-sensitive.",
+      "specs": [
+        {
+          "k": "Tape Width",
+          "v": "10 mm"
+        },
+        {
+          "k": "Tape Thickness",
+          "v": "0.05 mm"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Dielectric Strength",
+          "v": "3 kV"
+        },
+        {
+          "k": "Tape Length",
+          "v": "20 m"
+        },
+        {
+          "k": "Brand",
+          "v": "3M"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Polyester Film"
+        },
+        {
+          "k": "Color",
+          "v": "Multi color"
+        }
+      ],
+      "sizes": [
+        "15mm",
+        "25mm"
+      ],
+      "highlights": [
+        "Chemical, solvent and moisture resistant; flame-retardant, UL-rated",
+        "High edge-tear, puncture and abrasion resistance",
+        "Used on end turns, wire harnesses, transformers and fractional HP motors"
+      ],
+      "price": "₹50 / Roll",
+      "image": "/product-img/polyester-electric-tapes.webp",
+      "images": [
+        "/product-img/polyester-electric-tapes.webp"
+      ],
+      "order": 44,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "cotton-cloth-tape",
+      "name": "Cotton Cloth Tape",
+      "category": "electrical-tapes",
+      "blurb": "We are Manufacturer of Foam Tape, Backer Rod, Anti Skid Epoxy Flooring Tape, Eva Roll Sheet, Floor Marking Adhesive Tape, BOPP Tape, Red Polyester Tap, White Tissue Tape, Cross Filament Tap, etc. We direct all our activities to cater the expectations of customers by providing them excellent quality products as per their gratification.",
+      "specs": [
+        {
+          "k": "Tape Width",
+          "v": "1 Inch"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Color",
+          "v": "Black, White"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Cloth"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Electrical"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        }
+      ],
+      "sizes": [
+        "19mm",
+        "25mm"
+      ],
+      "highlights": [
+        "Excellent waterproof property, flexible & highly conformable",
+        "High-temperature masking during sandblasting",
+        "Cable bundling, textile screen printing, double-glazing edge protection"
+      ],
+      "price": "₹150 / Roll",
+      "image": "/product-img/cotton-cloth-tape.jpg",
+      "images": [
+        "/product-img/cotton-cloth-tape.jpg"
+      ],
+      "order": 45,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "ht-insulation-tape",
+      "name": "HT Insulation Tape",
+      "category": "electrical-tapes",
+      "blurb": "A high-temperature insulation tape for demanding electrical and coil applications.",
+      "specs": [
+        {
+          "k": "Tape Thickness",
+          "v": "1 mm"
+        },
+        {
+          "k": "Tape Width",
+          "v": "25 mm"
+        },
+        {
+          "k": "Tape Length",
+          "v": "20 m"
+        },
+        {
+          "k": "Packaging Type",
+          "v": "BOX"
+        },
+        {
+          "k": "Brand",
+          "v": "VARDHMAN"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "25mm"
+      ],
+      "highlights": [
+        "Used for high-temperature electrical insulation applications"
+      ],
+      "price": "₹30 / Roll",
+      "image": "/product-img/ht-insulation-tape.jpg",
+      "images": [
+        "/product-img/ht-insulation-tape.jpg"
+      ],
+      "order": 46,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "non-adhesive-p-v-c-tape",
+      "name": "Non Adhesive P.v.c Tape",
+      "category": "electrical-tapes",
+      "blurb": "A self-adhering, non-adhesive PVC tape perfect for electrical installations, wiring looms and commercial wiring projects.",
+      "specs": [
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Color",
+          "v": "Multi Color"
+        },
+        {
+          "k": "MOQ",
+          "v": "100 Rolls"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Insulation"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Non-Adhesive"
+        }
+      ],
+      "sizes": [
+        "18mm",
+        "25mm"
+      ],
+      "highlights": [
+        "Suited to electrical installations and commercial wiring looms",
+        "Premium grade plasticised PVC film"
+      ],
+      "price": "₹15 / Roll",
+      "image": "/product-img/non-adhesive-p-v-c-tape-250x250.webp",
+      "images": [
+        "/product-img/non-adhesive-p-v-c-tape-250x250.webp"
+      ],
+      "order": 47,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "steelgrip-electrical-insulation-tapes",
+      "name": "Steelgrip Electrical Insulation Tapes",
+      "category": "electrical-tapes",
+      "blurb": "A Steelgrip-brand black electrical insulation tape.",
+      "specs": [
+        {
+          "k": "Tape Length",
+          "v": "20 m"
+        },
+        {
+          "k": "Tape Width",
+          "v": "18 mm"
+        },
+        {
+          "k": "Color",
+          "v": "Black"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "18mm"
+      ],
+      "highlights": [
+        "General-purpose electrical insulation"
+      ],
+      "price": "₹40 / Piece",
+      "image": "/product-img/steelgrip-electrical-insulation-tapes-250x250.webp",
+      "images": [
+        "/product-img/steelgrip-electrical-insulation-tapes-250x250.webp"
+      ],
+      "order": 48,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "pvc-film-tape-grade-electric-insulation",
+      "name": "PVC Film (Tape Grade / Electric Insulation)",
+      "category": "electrical-tapes",
+      "blurb": "PVC film manufactured at 0.09mm standard thickness, 1.32m standard width, used for making adhesive/insulation tape.",
+      "specs": [
+        {
+          "k": "Pattern",
+          "v": "Plain"
+        },
+        {
+          "k": "Packaging Type",
+          "v": "Roll"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Electricity"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "Custom"
+      ],
+      "highlights": [
+        "Good fire resistance; complies with IS, REACH and RoHS as required",
+        "Protects cables/wires from abrasion, corrosion and UV damage"
+      ],
+      "price": "₹20 / sq ft",
+      "image": "/product-img/pvc-film-tape-grade-electric-insulation-250x250.webp",
+      "images": [
+        "/product-img/pvc-film-tape-grade-electric-insulation-250x250.webp"
+      ],
+      "order": 49,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "heat-resistant-teflon-tape",
+      "name": "Heat Resistant Teflon Tape",
+      "category": "electrical-tapes",
+      "blurb": "A PTFE/fiberglass tape with high-temperature silicone adhesive, used as a release surface on heat sealers and in composite aircraft lining.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Roll"
+        },
+        {
+          "k": "Tape Length",
+          "v": "10 m"
+        },
+        {
+          "k": "Color",
+          "v": "Brown"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Teflon"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Heat Resistant"
+        }
+      ],
+      "sizes": [
+        "15mm",
+        "25mm"
+      ],
+      "highlights": [
+        "Performs continuously up to 260°C",
+        "Excellent releasability with Class H insulation property",
+        "Flame retardant, oil and corrosion resistant"
+      ],
+      "price": "₹20 / Roll",
+      "image": "/product-img/heat-resistant-teflon-tape-250x250.webp",
+      "images": [
+        "/product-img/heat-resistant-teflon-tape-250x250.webp"
+      ],
+      "order": 50,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "pvc-electrical-insulation-tape",
+      "name": "Pvc Electrical Insulation Tape",
+      "category": "electrical-tapes",
+      "blurb": "A PVC electrical tape used for insulation, protection, bundling, maintenance and colour coding around the home.",
+      "specs": [
+        {
+          "k": "Tape Width",
+          "v": "16mm"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Electrical insulation and other uses around the home"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Material",
+          "v": "PVC"
+        }
+      ],
+      "sizes": [
+        "18mm"
+      ],
+      "highlights": [
+        "Withstands voltage with weather-resistant flexibility",
+        "High temperature rating of 80°C, fire resistance under 2 seconds"
+      ],
+      "price": "₹5 / Piece",
+      "image": "/product-img/pvc-electrical-insulation-tape-250x250.webp",
+      "images": [
+        "/product-img/pvc-electrical-insulation-tape-250x250.webp"
+      ],
+      "order": 51,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "polyimide-kapton-adhesive-tape",
+      "name": "Polyimide Kapton Adhesive Tape",
+      "category": "electrical-tapes",
+      "blurb": "A silicone/acrylic-adhesive polyimide (Kapton) tape used for coil insulation, capacitor wrapping and high-temperature masking.",
+      "specs": [
+        {
+          "k": "Tape Length",
+          "v": "20 m"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Silicone & Acrylic"
+        },
+        {
+          "k": "Color",
+          "v": "Tawny/Brown"
+        },
+        {
+          "k": "Elongation",
+          "v": "Reaches maximum at about 300°C (570°F)"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        }
+      ],
+      "sizes": [
+        "10mm",
+        "15mm",
+        "25mm"
+      ],
+      "highlights": [
+        "Insulation of coils in electric motors and capacitors",
+        "Masking for powder coating; bed surface for 3D printing with ABS",
+        "Insulating and fastening flexible PCBs, magnet wire and cabling"
+      ],
+      "price": "₹50 / Roll",
+      "image": "/product-img/polyimide-kapton-adhesive-tape-250x250.webp",
+      "images": [
+        "/product-img/polyimide-kapton-adhesive-tape-250x250.webp"
+      ],
+      "order": 52,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "conductive-adhesive-copper-foil-tape",
+      "name": "Conductive Adhesive Copper Foil Tape",
+      "category": "electrical-tapes",
+      "blurb": "A copper foil tape recommended for electro-static shielding, cable wrapping and stained-glass work. Copper Foil Tape 1126 is a 2.6-mil (0.066 mm) thick tape composed of a 1.4-mil (0.036 mm) flat copper foil backing coated on one side with a non-corrosive, electrically conductive acrylic pressure-sensitive adhesive supplied on a removeable liner.",
+      "specs": [
+        {
+          "k": "Tape Length",
+          "v": "25 m"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Copper Foil"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Creation of paper circuits"
+        }
+      ],
+      "sizes": [
+        "10mm",
+        "25mm"
+      ],
+      "highlights": [
+        "Electromagnetic shielding and slug/snail deterrent",
+        "Wrapping wire or cables for crafts and domestic applications"
+      ],
+      "price": "₹150 / Roll",
+      "image": "/product-img/copper-foil-adhesive-tape-250x250.webp",
+      "images": [
+        "/product-img/copper-foil-adhesive-tape-250x250.webp"
+      ],
+      "order": 53,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "cotton-insulation-frictiontape",
+      "name": "Cotton Insulation FrictionTape",
+      "category": "electrical-tapes",
+      "blurb": "A black cotton friction insulation tape with high-grade electrical adhesive, used industrially and commercially.",
+      "specs": [
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Color",
+          "v": "Black"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Cotton"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Friction insulation cotton tape for industrial & commercial use"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        }
+      ],
+      "sizes": [
+        "19mm",
+        "25mm"
+      ],
+      "highlights": [
+        "Good adhesion strength to almost all surfaces",
+        "Bundling of wires, penetration of cables and splices",
+        "Provides abrasion protection and mechanical over-wrap protection"
+      ],
+      "price": "₹300 / Piece",
+      "image": "/product-img/cotton-friction-insulation-tape-250x250.webp",
+      "images": [
+        "/product-img/cotton-friction-insulation-tape-250x250.webp"
+      ],
+      "order": 54,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "pink-rayon-tape",
+      "name": "Pink Rayon Tape",
+      "category": "electrical-tapes",
+      "blurb": "A rayon-fabric insulation tape with thermosetting rubber adhesive for coil winding and holding wires in motors.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Roll"
+        },
+        {
+          "k": "Conductor Type",
+          "v": "Solid"
+        },
+        {
+          "k": "Insulation Material",
+          "v": "Ethylene Propylene"
+        },
+        {
+          "k": "Tape Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        }
+      ],
+      "sizes": [
+        "19mm",
+        "25mm"
+      ],
+      "highlights": [
+        "Core insulation in relay transformers and solenoid coils",
+        "Holding down wire leads in corrosive environments",
+        "Coil winding in motors and telecom equipment"
+      ],
+      "price": "₹90 / Roll",
+      "image": "/product-img/pink-rayon-tape-250x250.webp",
+      "images": [
+        "/product-img/pink-rayon-tape-250x250.webp"
+      ],
+      "order": 55,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "2-inch-duct-tape",
+      "name": "2 Inch Duct Tape",
+      "category": "insulation-waterproof-tapes",
+      "blurb": "Duct tape is one of the most popular and versatile types of tape thanks to its useful combination of properties — water resistant, strong, easy to tear and flexible. It has become multipurpose and is used for general sealing, patching holes, packing boxes and repairs, sticking to rough and uneven indoor and outdoor surfaces such as wood, stone, plaster, brick and metal.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "10 Roll"
+        },
+        {
+          "k": "Tape Width",
+          "v": "2 Inch"
+        },
+        {
+          "k": "Color",
+          "v": "Muti"
+        }
+      ],
+      "sizes": [
+        "2 Inch"
+      ],
+      "highlights": [
+        "Very useful for quick repairs and to protect components",
+        "Sticks to rough and uneven indoor/outdoor surfaces — wood, stone, plaster, brick and metal"
+      ],
+      "price": "₹140 / Roll",
+      "image": "/product-img/2-Inch-duct-tape.jpg",
+      "images": [
+        "/product-img/2-Inch-duct-tape.jpg"
+      ],
+      "order": 56,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "waterproof-butyl-rubber-tape",
+      "name": "Waterproof Butyl Rubber Tape",
+      "category": "insulation-waterproof-tapes",
+      "blurb": "A butyl rubber sealant tape widely used in roofing, surface crack repair, RV repair, window and boat sealing, and glass and EPDM rubber roof patching. Non-toxic, no contraction, anti-aging, sealing, waterproofing, high/low temperature resistant, fire retardant and UV resistant.",
+      "specs": [
+        {
+          "k": "Tape Length",
+          "v": "5 m"
+        },
+        {
+          "k": "Tape Width",
+          "v": "2 Inch"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Aluminium With Butyl Rubber"
+        },
+        {
+          "k": "Color",
+          "v": "Black, Gray, Yellow, Transparent"
+        }
+      ],
+      "sizes": [
+        "50mm",
+        "75mm"
+      ],
+      "highlights": [
+        "Just peel off the release film and apply — the aluminium foil cover keeps its size stable",
+        "Short-term heat resistance 180°C (356°F); long-term heat resistance 120°C (248°F)",
+        "Maintains flexibility and adhesion under displacement and deformation"
+      ],
+      "price": "₹85 / Piece",
+      "image": "/product-img/waterproof-butyl-rubber-tape.jpg",
+      "images": [
+        "/product-img/waterproof-butyl-rubber-tape.jpg"
+      ],
+      "order": 57,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "aluminum-foil-tapes",
+      "name": "Aluminum Foil Tapes",
+      "category": "insulation-waterproof-tapes",
+      "blurb": "A foil-backed adhesive tape commonly used to cover seams on ducts, joints and metal, relied on across metal finishing, automotive, aerospace and appliance industries. Durable enough to be safe on airplanes and machinery.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "10 Piece"
+        },
+        {
+          "k": "Tape Width",
+          "v": "4 inch"
+        },
+        {
+          "k": "Tape Length",
+          "v": "20 m"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Aluminium Foil"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "48mm",
+        "72mm"
+      ],
+      "highlights": [
+        "Resists humidity and chemical agents with good thermal conductivity",
+        "Resists high temperatures and diffuses/reflects light",
+        "Smooth finish, easy to use, low maintenance and durable"
+      ],
+      "price": "₹60 / Piece",
+      "image": "/product-img/aluminium-foil-tape.jpg",
+      "images": [
+        "/product-img/aluminium-foil-tape.jpg"
+      ],
+      "order": 58,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "butyl-rubber-tape",
+      "name": "Butyl Rubber Tape",
+      "category": "insulation-waterproof-tapes",
+      "blurb": "Designed for hot water pipes, building joints, cables and similar applications, with good insulation and waterproof performance. Working temperature 90°C (can reach 500°C briefly), with reliable waterproofing and UV resistance.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "10 Roll"
+        },
+        {
+          "k": "Tape Width",
+          "v": "2 Inch"
+        },
+        {
+          "k": "Tape Length",
+          "v": "10 m"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Color",
+          "v": "Black, White, Yellow"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "50mm",
+        "75mm"
+      ],
+      "highlights": [
+        "Used for cable jointing, telecoms, aerial installation and mechanical fixings",
+        "Hose and pipe repair, sports handle wrapping",
+        "Solvent-free with good weather resistance and insulation performance"
+      ],
+      "price": "₹50 / Roll",
+      "image": "/product-img/butyl-tapes-250x250.webp",
+      "images": [
+        "/product-img/butyl-tapes-250x250.webp"
+      ],
+      "order": 59,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "high-polymer-butyl-rubber-tape",
+      "name": "High Polymer Butyl Rubber Tape",
+      "category": "insulation-waterproof-tapes",
+      "blurb": "A high-polymer butyl rubber and aluminium foil tape that stops leaks instantly — repairs pipe leakage, roof water leakage and wall cracks with an effective waterproof seal. Anti-ageing for 30 years.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "10 Piece"
+        },
+        {
+          "k": "Tape Length",
+          "v": "5 m"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Color",
+          "v": "Black"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Multi-functional, thicker tape, more viscous and longer lasting; repairs wall cracks"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Butyl Rubber With Aluminium Foil"
+        }
+      ],
+      "sizes": [
+        "50mm",
+        "75mm"
+      ],
+      "highlights": [
+        "High temperature resistant to 120°C, low temperature resistant to -40°C",
+        "Excellent chemical, weather and corrosion resistance",
+        "Good adhesion, water resistance, airtightness and dimensional stability"
+      ],
+      "price": "₹85 / Piece",
+      "image": "/product-img/high-polymer-butyl-rubber-tape-250x250.webp",
+      "images": [
+        "/product-img/high-polymer-butyl-rubber-tape-250x250.webp"
+      ],
+      "order": 60,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "pipe-wrapping-rubber-tapes",
+      "name": "Pipe Wrapping Rubber Tapes",
+      "category": "insulation-waterproof-tapes",
+      "blurb": "A non-inflammable PVC-coated pipe wrapping tape used for sanitary and plumbing applications along with underground pipelines, helping prevent corrosion on metal pipe or conduit.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "10 Piece"
+        },
+        {
+          "k": "Tape Width",
+          "v": "50 mm"
+        },
+        {
+          "k": "Tape Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Adhesive Type",
+          "v": "Self Adhesive"
+        },
+        {
+          "k": "Color",
+          "v": "Black"
+        },
+        {
+          "k": "Thickness",
+          "v": "0.5 mm"
+        },
+        {
+          "k": "Material",
+          "v": "PVC"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Rubber"
+        }
+      ],
+      "sizes": [
+        "50mm"
+      ],
+      "highlights": [
+        "Premium EPDM rubber reduces condensation on cold pipes",
+        "Helps prevent frozen pipes and potential pipe bursts",
+        "Applies to flat and irregular surfaces with excellent water resistance"
+      ],
+      "price": "₹15 / Piece",
+      "image": "/product-img/pipe-wrapping-rubber-tapes-250x250.webp",
+      "images": [
+        "/product-img/pipe-wrapping-rubber-tapes-250x250.webp"
+      ],
+      "order": 61,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "silver-color-reinforced-aluminium-tape",
+      "name": "Silver color Reinforced Aluminium Tape",
+      "category": "insulation-waterproof-tapes",
+      "blurb": "A reinforced aluminium tape widely used in the HVAC industry, specially processed to be non-tearable with a high coating of hotmelt adhesive that grips joints firmly.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "72 Roll"
+        },
+        {
+          "k": "Tape Width",
+          "v": "2 inch"
+        },
+        {
+          "k": "Tape Length",
+          "v": "20 m"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Color",
+          "v": "Silver"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Aluminium Foil with Thread"
+        }
+      ],
+      "sizes": [
+        "48mm",
+        "72mm"
+      ],
+      "highlights": [
+        "Non-tearable feature grips HVAC duct joints firmly",
+        "Assists air and water proofing of ducts over the long run"
+      ],
+      "price": "₹60 / Roll",
+      "image": "/product-img/silver-color-reinforced-aluminium-tape-250x250.webp",
+      "images": [
+        "/product-img/silver-color-reinforced-aluminium-tape-250x250.webp"
+      ],
+      "order": 62,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "bopp-self-adhesive-tape",
+      "name": "BOPP Self Adhesive Tape",
+      "category": "packaging-tape",
+      "blurb": "BOPP films have excellent gloss and high transparency for a fine finish. Unlike other polyester films, BOPP acts as a good moisture-resistant barrier and resists pollution and harmful chemicals.",
+      "specs": [
+        {
+          "k": "Tape Width",
+          "v": "2 Inch"
+        },
+        {
+          "k": "Tape Length",
+          "v": "65 m"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Color",
+          "v": "Transparent & Brown"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Industrial"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "2 Inch"
+      ],
+      "highlights": [
+        "Strong carton sealing with good moisture resistance",
+        "Available transparent, printed or brown for industrial packaging"
+      ],
+      "price": "₹1,800 / Box",
+      "image": "/product-img/bopp1.webp",
+      "images": [
+        "/product-img/bopp1.webp"
+      ],
+      "order": 63,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "cross-filament-tapes",
+      "name": "Cross Filament Tapes",
+      "category": "packaging-tape",
+      "blurb": "Cross Filament Tape has very high tensile strength — best for holding white goods, insulation of oil transformers, banding of metal and bar, heavy duty packaging & strapping, closing of metal coils, reinforcement & closing of cables, and structuring of umbilical cord for marine probe. It is a pressure-sensitive tape used for closing corrugated fiberboard boxes, reinforcing packages and bundling.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "50 Roll"
+        },
+        {
+          "k": "Tape Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Tape Width",
+          "v": "48 mm"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Filament tape or strapping tape is a pressure-sensitive tape"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Color",
+          "v": "Transparent"
+        }
+      ],
+      "sizes": [
+        "48mm"
+      ],
+      "highlights": [
+        "Balanced machine/cross direction tensile strength, high adhesion and medium impact strength",
+        "Uni-directional filaments resist delamination for one-piece removability",
+        "Operating temperature range +32°F (0°C) to +180°F (+82°C)"
+      ],
+      "price": "₹160 / Roll",
+      "image": "/product-img/cross-filament-tapes.webp",
+      "images": [
+        "/product-img/cross-filament-tapes.webp"
+      ],
+      "order": 64,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "plastic-core-for-tape",
+      "name": "Plastic Core For Tape",
+      "category": "packaging-tape",
+      "blurb": "Precision-cut plastic cores with chamfered ends, burr-free cuts and tight tolerances. Used as support for winding/unwinding rolls of paper, film, fabric and tape; recyclable and cost-effective vs metal cores.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Piece"
+        },
+        {
+          "k": "Inner Diameter",
+          "v": "3 Inch"
+        },
+        {
+          "k": "Color",
+          "v": "White"
+        },
+        {
+          "k": "Application Surface",
+          "v": "Plastic"
+        },
+        {
+          "k": "Residue Free Removal",
+          "v": "Yes"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "3 Inch ID"
+      ],
+      "highlights": [
+        "Central support for winding/unwinding paper, film, fabric and tape rolls",
+        "Used for label, tape, printing and packaging film cores",
+        "Recyclable and lightweight vs metal cores"
+      ],
+      "price": "₹110 / Piece",
+      "image": "/product-img/pvc-plastic-cores-250x250.webp",
+      "images": [
+        "/product-img/pvc-plastic-cores-250x250.webp"
+      ],
+      "order": 65,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "3m-monofilament-tape",
+      "name": "3m MonoFilament Tape",
+      "category": "packaging-tape",
+      "blurb": "German-manufactured, conformable polypropylene packaging tape with high tear resistance from longitudinal glass-fibre reinforcement. Strong adhesion for sealing and bundling heavy goods, pallets and dangerous goods during transport.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Roll"
+        },
+        {
+          "k": "Color",
+          "v": "Tranparent And milky White"
+        },
+        {
+          "k": "Brand",
+          "v": "3m, Vardhman"
+        },
+        {
+          "k": "Elongation",
+          "v": "50 mtr"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Filament"
+        }
+      ],
+      "sizes": [
+        "Standard"
+      ],
+      "highlights": [
+        "Palletizing of packaging and bending of tubes/bars",
+        "Heavy packaging, closing of metal coils, paint anchor test",
+        "Reinforcement and closing of cables"
+      ],
+      "price": "₹80 / Roll",
+      "image": "/product-img/mono-filament-tape-250x250.webp",
+      "images": [
+        "/product-img/mono-filament-tape-250x250.webp"
+      ],
+      "order": 66,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "reinforced-kraft-paper-tape-water-activated",
+      "name": "Reinforced Kraft Paper Tape (Water Activated)",
+      "category": "packaging-tape",
+      "blurb": "Made of kraft paper with rubber adhesive, mainly for box packaging and export. Eco-friendly with no plastic content; also available with scrim reinforcement for high strength. Used in carton sealing, splicing, freezer tape and picture framing.",
+      "specs": [
+        {
+          "k": "Tape Width",
+          "v": "80 mm"
+        },
+        {
+          "k": "Tape Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Color",
+          "v": "Brown"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Flat Back Craft Paper"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "80mm"
+      ],
+      "highlights": [
+        "Carton sealing, packing and splicing for export packaging",
+        "Freezer tape, straight-line masking, silk screening and picture framing"
+      ],
+      "price": "₹85 / Roll",
+      "image": "/product-img/reinforced-kraft-paper-tape-250x250.webp",
+      "images": [
+        "/product-img/reinforced-kraft-paper-tape-250x250.webp"
+      ],
+      "order": 67,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "pvc-non-adhesive-tape",
+      "name": "Pvc Non Adhesive Tape",
+      "category": "packaging-tape",
+      "blurb": "Made from high-grade plasticised PVC film that bonds together without adhesive, for permanent wrapping applications. Used in automobile wiring harnesses, primary winding of current transformers, cable jointing kits and concealed plumbing.",
+      "specs": [
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Color",
+          "v": "Multi Colour"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Pvc Film"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Non-Adhesive"
+        }
+      ],
+      "sizes": [
+        "Standard"
+      ],
+      "highlights": [
+        "Automobile wiring harness and cable jointing kits",
+        "Primary winding of current transformers, concealed plumbing"
+      ],
+      "price": "₹5 / Roll",
+      "image": "/product-img/pvc-non-adhesive-tapes-250x250.webp",
+      "images": [
+        "/product-img/pvc-non-adhesive-tapes-250x250.webp"
+      ],
+      "order": 68,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "book-binding-or-duct-and-gaffer-tapes",
+      "name": "Book Binding Or Duct And Gaffer Tapes",
+      "category": "packaging-tape",
+      "blurb": "Water-activated, gummed linen tape for instant page binding — perfect to reinforce pamphlets, repair covers and mend loose pages.",
+      "specs": [
+        {
+          "k": "Width",
+          "v": "24 mm (1 in)"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Duct And Cotton"
+        },
+        {
+          "k": "Length",
+          "v": "40 m"
+        },
+        {
+          "k": "Color",
+          "v": "Black"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        }
+      ],
+      "sizes": [
+        "24mm"
+      ],
+      "highlights": [
+        "Binds book pages instantly with water-activated gummed linen tape",
+        "Reinforces pamphlets, repairs covers and mends loose pages"
+      ],
+      "price": "₹80 / Roll",
+      "image": "/product-img/book3-250x250.webp",
+      "images": [
+        "/product-img/book3-250x250.webp"
+      ],
+      "order": 69,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "silver-grey-fabric-reflective-tape",
+      "name": "Silver Grey Fabric Reflective Tape",
+      "category": "roads-construction",
+      "blurb": "A sew-on polyester fabric reflective tape composed of wide-angle exposed retroreflective lenses bonded to a durable cloth backing, improving dusk/night visibility.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "10 Meter"
+        },
+        {
+          "k": "Tape Width",
+          "v": "25 mm"
+        },
+        {
+          "k": "Tape Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Reflective Grade",
+          "v": "Engineering"
+        },
+        {
+          "k": "Packaging Type",
+          "v": "Roll"
+        },
+        {
+          "k": "Base Color",
+          "v": "Grey"
+        },
+        {
+          "k": "Material",
+          "v": "Polyester"
+        },
+        {
+          "k": "Size",
+          "v": "2 inch"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Used in safety wear for warning"
+        }
+      ],
+      "sizes": [
+        "25mm",
+        "50mm"
+      ],
+      "highlights": [
+        "Sewn onto jackets, t-shirts, vests, chaps, pants and jeans",
+        ">100 home wash cycles, brightness >420 cd/(lx.m2)"
+      ],
+      "price": "₹15 / Meter",
+      "image": "/product-img/silver-grey-fabric-reflective-tape.webp",
+      "images": [
+        "/product-img/silver-grey-fabric-reflective-tape.webp"
+      ],
+      "order": 70,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "caution-barricade-tape",
+      "name": "Caution Barricade Tape",
+      "category": "roads-construction",
+      "blurb": "A brightly coloured PE barricading tape used to warn passersby of hazards, printed with bold 2-inch \"Caution\"/\"Danger\" lettering.",
+      "specs": [
+        {
+          "k": "Material",
+          "v": "PE"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Barricading Tape"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Warning"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        }
+      ],
+      "sizes": [
+        "75mm"
+      ],
+      "highlights": [
+        "Can be tied, stapled or nailed to posts, fences or barricades",
+        "Fast on-the-spot warning for temporary outdoor or permanent indoor use"
+      ],
+      "price": "₹250 / Roll",
+      "image": "/product-img/Caution-Barricade-Tape.jpg",
+      "images": [
+        "/product-img/Caution-Barricade-Tape.jpg"
+      ],
+      "order": 71,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "retro-reflective-tapes",
+      "name": "Retro Reflective Tapes",
+      "category": "roads-construction",
+      "blurb": "An imported retro-reflective tape that increases the visibility of moving objects to motorists at night by reflecting headlight beams back to their source.",
+      "specs": [
+        {
+          "k": "Packaging Type",
+          "v": "Roll"
+        },
+        {
+          "k": "Color",
+          "v": "Multi"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Heavy Vehicle"
+        },
+        {
+          "k": "Features",
+          "v": "A bright tape can be seen from longer distances"
+        },
+        {
+          "k": "Brand",
+          "v": "3m, Reflomax, Avery Dennison & Chinese"
+        }
+      ],
+      "sizes": [
+        "50mm"
+      ],
+      "highlights": [
+        "Reduces side and rear impacts in dark, poorly lit conditions",
+        "Important for highway applications where visibility from a distance matters"
+      ],
+      "price": "₹280 / Roll",
+      "image": "/product-img/Retro-Reflective-Tape.avif",
+      "images": [
+        "/product-img/Retro-Reflective-Tape.avif"
+      ],
+      "order": 72,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "colours-fabric-reflective-tape",
+      "name": "Colours Fabric Reflective Tape",
+      "category": "roads-construction",
+      "blurb": "A polyester fabric reflective tape used on life jackets, clothing, vehicles and helmets to improve dusk/night visibility.",
+      "specs": [
+        {
+          "k": "Packaging Type",
+          "v": "Roll"
+        },
+        {
+          "k": "Material",
+          "v": "Polyester"
+        },
+        {
+          "k": "Roll Length",
+          "v": "50 Mtr"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Life Jackets"
+        }
+      ],
+      "sizes": [
+        "25mm",
+        "50mm"
+      ],
+      "highlights": [
+        "Sewn to clothing, vehicles, trailers and bike helmets",
+        "Highlights driveway edges, letterboxes, boats and ships"
+      ],
+      "price": "₹19 / Meter",
+      "image": "/product-img/colours-fabric-reflective-tape-250x250.webp",
+      "images": [
+        "/product-img/colours-fabric-reflective-tape-250x250.webp"
+      ],
+      "order": 73,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "dowel-bar-cap-pvc-sleeve",
+      "name": "Dowel Bar Cap Pvc Sleeve",
+      "category": "roads-construction",
+      "blurb": "A flexible virgin-plastic sleeve that de-bonds dowel bars from concrete, allowing sliding movement within panels during expansion/contraction.",
+      "specs": [
+        {
+          "k": "Size",
+          "v": "Sleeves of 25, 30, 32, 36, 38 and 40 mm diameter, lengths 100–360 mm"
+        },
+        {
+          "k": "Shape",
+          "v": "Pipe"
+        },
+        {
+          "k": "Material",
+          "v": "Pvc"
+        },
+        {
+          "k": "Color",
+          "v": "Multicolor"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "Standard"
+      ],
+      "highlights": [
+        "Covers at least 60% of the dowel bar length for contraction joints",
+        "Thin-wall, smooth construction avoids cracking of concrete panels"
+      ],
+      "price": "₹2 / Piece",
+      "image": "/product-img/dowel-bar-cap-pvc-sleeve-250x250.webp",
+      "images": [
+        "/product-img/dowel-bar-cap-pvc-sleeve-250x250.webp"
+      ],
+      "order": 74,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "3m-retro-reflective-tape",
+      "name": "3m Retro Reflective Tape",
+      "category": "roads-construction",
+      "blurb": "3M reflective tape featuring microprismatic technology for bright, vivid retroreflectivity at wide angles, improving day/night visibility of vehicles and equipment.",
+      "specs": [
+        {
+          "k": "Reflectivity Grade",
+          "v": "Commercial Grade"
+        },
+        {
+          "k": "Tape Width",
+          "v": "24 mm"
+        },
+        {
+          "k": "Roll Length",
+          "v": "10 m"
+        },
+        {
+          "k": "Packaging Type",
+          "v": "Roll"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Vehicles"
+        },
+        {
+          "k": "Base Material",
+          "v": "PVC"
+        },
+        {
+          "k": "Color",
+          "v": "Red white yellow"
+        },
+        {
+          "k": "Brand",
+          "v": "3M"
+        },
+        {
+          "k": "Size",
+          "v": "50mm"
+        },
+        {
+          "k": "Surface Finish",
+          "v": "Glossy"
+        },
+        {
+          "k": "Conforming Standard",
+          "v": "ASTM D4956"
+        },
+        {
+          "k": "Service Life",
+          "v": "3 Years"
+        },
+        {
+          "k": "Usage Area",
+          "v": "Marine, Road Safety, Vehicle Marking"
+        }
+      ],
+      "sizes": [
+        "50mm"
+      ],
+      "highlights": [
+        "Almost 90-degree wide-angle retroreflectivity",
+        "Certified to ASTM D4956 with a 3-year service life"
+      ],
+      "price": "₹3,250 / Roll",
+      "image": "/product-img/3m-retro-reflective-tape-250x250.webp",
+      "images": [
+        "/product-img/3m-retro-reflective-tape-250x250.webp"
+      ],
+      "order": 75,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "underground-warning-tape",
+      "name": "Underground Warning Tape",
+      "category": "roads-construction",
+      "blurb": "A PVC detectable marker tape that enables buried cables and pipes to be located without damage during excavation.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Meter"
+        },
+        {
+          "k": "Material",
+          "v": "PVC"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Warning"
+        },
+        {
+          "k": "Packaging Type",
+          "v": "Roll"
+        },
+        {
+          "k": "Thickness",
+          "v": "100 Micron to 200 Micron"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        }
+      ],
+      "sizes": [
+        "100mm",
+        "150mm"
+      ],
+      "highlights": [
+        "Colour-coded to guard against dangerous digging accidents",
+        "Minimum 200µm thickness at 150mm width, 500m roll size per spec"
+      ],
+      "price": "₹25 / Meter",
+      "image": "/product-img/underground-warning-tape-250x250.webp",
+      "images": [
+        "/product-img/underground-warning-tape-250x250.webp"
+      ],
+      "order": 76,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "expanded-polyethylene-foam-rods",
+      "name": "Expanded Polyethylene Foam Rods",
+      "category": "expanded-polyethylene-foam",
+      "blurb": "High-quality EPE foam backer rods, water- and corrosion-resistant, retaining shape without shrinking or swelling.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1000 Meter"
+        },
+        {
+          "k": "Length",
+          "v": "200 mm"
+        },
+        {
+          "k": "Color",
+          "v": "White"
+        },
+        {
+          "k": "Application",
+          "v": "Construction Industry"
+        },
+        {
+          "k": "Shape",
+          "v": "Round"
+        },
+        {
+          "k": "Packing Type",
+          "v": "Box"
+        }
+      ],
+      "sizes": [
+        "Various dia"
+      ],
+      "highlights": [
+        "Resistant to water, corrosion, acids and alkalis; antifungal",
+        "Used in construction, shoes, underground cables and glass wall construction",
+        "Also used for heating and thermal insulation"
+      ],
+      "price": "₹2 / Meter",
+      "image": "/product-img/expanded-polyethylene-foam-rods-250x250.webp",
+      "images": [
+        "/product-img/expanded-polyethylene-foam-rods-250x250.webp"
+      ],
+      "order": 77,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "epe-pipe-insulation-tube",
+      "name": "Epe Pipe Insulation Tube",
+      "category": "expanded-polyethylene-foam",
+      "blurb": "A closed-cell EPE foam insulation tube with very good flexibility, cushioning and low thermal conductivity, offering strong buoyancy and weather resistance.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Meter"
+        },
+        {
+          "k": "Packaging Type",
+          "v": "50 Mtr"
+        },
+        {
+          "k": "Material",
+          "v": "Epe Foam"
+        },
+        {
+          "k": "Color",
+          "v": "Multi"
+        },
+        {
+          "k": "Density",
+          "v": "20-30kgs/m3"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        }
+      ],
+      "sizes": [
+        "15-110mm ID"
+      ],
+      "highlights": [
+        "Closed-cell, waterproof material with strong buoyancy",
+        "Good sound-proofing and anti-vibration effect",
+        "Excellent workability — cutting, bonding, extrusion and moulding"
+      ],
+      "price": "₹17 / Meter",
+      "image": "/product-img/epe-pipe-insulation-tube-250x250.webp",
+      "images": [
+        "/product-img/epe-pipe-insulation-tube-250x250.webp"
+      ],
+      "order": 78,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "epe-foam-c-section",
+      "name": "Epe Foam C Section",
+      "category": "expanded-polyethylene-foam",
+      "blurb": "An extruded EPE foam C-section protector offering impact protection, cushioning and abrasion resistance for kids' cycle rods, wires and heater elements.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "500 Meter"
+        },
+        {
+          "k": "Color",
+          "v": "Multi"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Protection and insulation of rods, wires and heater elements"
+        },
+        {
+          "k": "Design Type",
+          "v": "Customized"
+        }
+      ],
+      "sizes": [
+        "Custom"
+      ],
+      "highlights": [
+        "C-shape protector for impact protection and abrasion resistance",
+        "Light weight with resilience, flexibility and shock absorption"
+      ],
+      "price": "₹12 / Meter",
+      "image": "/product-img/epe-foam-c-section.jpg",
+      "images": [
+        "/product-img/epe-foam-c-section.jpg"
+      ],
+      "order": 79,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "epe-foam-u-profile",
+      "name": "Epe Foam U Profile",
+      "category": "expanded-polyethylene-foam",
+      "blurb": "An extruded closed-cell self-gripping EPE U-profile for packaging glass, photo-frames, mica sheets and handicraft products.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Meter"
+        },
+        {
+          "k": "Color",
+          "v": "Multi"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Cushioning products during shipping"
+        },
+        {
+          "k": "Material",
+          "v": "EPE"
+        },
+        {
+          "k": "Feature",
+          "v": "U-shape protector for impact protection, cushioning and abrasion resistance"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "Custom"
+      ],
+      "highlights": [
+        "Available in standard U-30 to U-60 sizes, 25/50 m continuous length",
+        "High strength, light weight and moisture-proof"
+      ],
+      "price": "₹15 / Meter",
+      "image": "/product-img/epe-foam-u-profile-250x250.webp",
+      "images": [
+        "/product-img/epe-foam-u-profile-250x250.webp"
+      ],
+      "order": 80,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "epe-foam-l-section",
+      "name": "Epe Foam L Section",
+      "category": "expanded-polyethylene-foam",
+      "blurb": "An extruded L-shaped EPE foam profile used as a durable packaging product for electronic items and furniture.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Meter"
+        },
+        {
+          "k": "Design Type",
+          "v": "Roll"
+        },
+        {
+          "k": "Brand",
+          "v": "vardhaman"
+        },
+        {
+          "k": "Size",
+          "v": "6 x 4 ft"
+        },
+        {
+          "k": "Length",
+          "v": "100 m"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Furniture, skin products, handbags, computers and electric appliances"
+        },
+        {
+          "k": "Color",
+          "v": "White"
+        },
+        {
+          "k": "Thickness",
+          "v": "25 mm"
+        },
+        {
+          "k": "Density",
+          "v": "30 kg/m3"
+        },
+        {
+          "k": "Temperature Range",
+          "v": "-40 to 70°C"
+        }
+      ],
+      "sizes": [
+        "Custom"
+      ],
+      "highlights": [
+        "Used as packaging for electronic products, UPS/inverters and furniture",
+        "Excellent strength and crack-resistant finish"
+      ],
+      "price": "₹17 / Meter",
+      "image": "/product-img/epe-foam-l-section-250x250.webp",
+      "images": [
+        "/product-img/epe-foam-l-section-250x250.webp"
+      ],
+      "order": 81,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "3m-pe-foam-tapes",
+      "name": "3M Pe Foam Tapes",
+      "category": "automotive-tapes",
+      "blurb": "A polyethylene foam tape combining a rubber-based adhesive with conformable closed-cell foam for a good initial bond to a variety of surfaces.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "10 Roll"
+        },
+        {
+          "k": "Color",
+          "v": "Gray"
+        },
+        {
+          "k": "Brand",
+          "v": "3M"
+        },
+        {
+          "k": "Material",
+          "v": "P.e Foam"
+        },
+        {
+          "k": "Make",
+          "v": "India"
+        }
+      ],
+      "sizes": [
+        "9mm",
+        "12mm"
+      ],
+      "highlights": [
+        "Protects against surface abrasion, edges and corners",
+        "Thermal and acoustic insulation of roofs, walls and pipelines",
+        "Floor covering underlay"
+      ],
+      "price": "₹10 / Roll",
+      "image": "/product-img/3m-pe-foam-tapes-250x250.webp",
+      "images": [
+        "/product-img/3m-pe-foam-tapes-250x250.webp"
+      ],
+      "order": 82,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "p-e-foam-tape",
+      "name": "P.e Foam Tape",
+      "category": "automotive-tapes",
+      "blurb": "A white/black PE foam adhesive tape for gasketing, sealing and gap filling in vehicles.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "10 Piece"
+        },
+        {
+          "k": "Color",
+          "v": "White And Black"
+        },
+        {
+          "k": "Backing Material",
+          "v": "P.e Foam"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        },
+        {
+          "k": "Tape Width",
+          "v": "3mm"
+        }
+      ],
+      "sizes": [
+        "9mm",
+        "12mm",
+        "19mm"
+      ],
+      "highlights": [
+        "Protects against surface abrasion, edges and corners",
+        "Thermal insulation of pipelines and product spacing"
+      ],
+      "price": "₹60 / Piece",
+      "image": "/product-img/PE-FOAM-TAPE.webp",
+      "images": [
+        "/product-img/PE-FOAM-TAPE.webp"
+      ],
+      "order": 83,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "panel-bonding-tape",
+      "name": "Panel Bonding Tape",
+      "category": "automotive-tapes",
+      "blurb": "A high-strength industrial panel bonding tape used for sealing and bonding automotive panels and trim with virtually invisible fastening.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Piece"
+        },
+        {
+          "k": "Tape Width",
+          "v": "100 mm"
+        },
+        {
+          "k": "Tape Length",
+          "v": "50 m"
+        },
+        {
+          "k": "Backing Material",
+          "v": "BOX"
+        },
+        {
+          "k": "Usage/Feature",
+          "v": "Industrial"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        }
+      ],
+      "sizes": [
+        "12mm",
+        "19mm"
+      ],
+      "highlights": [
+        "Seals out water and dust; high temperature and solvent resistance",
+        "Eliminates screwing, riveting and welding",
+        "Excellent for sealing, cushioning and impact resistivity"
+      ],
+      "price": "₹40 / Piece",
+      "image": "/product-img/panel-bonding-tape-250x250.webp",
+      "images": [
+        "/product-img/panel-bonding-tape-250x250.webp"
+      ],
+      "order": 84,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "pvc-floor-marking-tapes",
+      "name": "Pvc Floor Marking Tapes",
+      "category": "floor-care",
+      "blurb": "A PVC adhesive tape used to mark hazards, divide spaces, create aisles or provide directions in industrial and manufacturing facilities.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Roll"
+        },
+        {
+          "k": "Material",
+          "v": "PVC"
+        },
+        {
+          "k": "Color",
+          "v": "Multi Colour"
+        },
+        {
+          "k": "Size",
+          "v": "24mm to 1250mm"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        }
+      ],
+      "sizes": [
+        "48mm",
+        "72mm"
+      ],
+      "highlights": [
+        "Used for lane marking, zoning and 5S workplace organisation"
+      ],
+      "price": "₹55 / Roll",
+      "image": "/product-img/pvc-floor-marking-tapes-250x250.webp",
+      "images": [
+        "/product-img/pvc-floor-marking-tapes-250x250.webp"
+      ],
+      "order": 85,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "double-sided-carpet-tape",
+      "name": "Double Sided Carpet Tape",
+      "category": "floor-care",
+      "blurb": "A yellow, cloth-backed double-sided carpet tape coated with a strong, long-lasting rubber-solvent adhesive for fixing carpets and mats.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Piece"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Tape Width",
+          "v": "41-60 mm"
+        },
+        {
+          "k": "Tape Length",
+          "v": "10-20 m"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Color",
+          "v": "Yellow"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "48mm",
+        "72mm"
+      ],
+      "highlights": [
+        "Excellent adhesion to smooth and rough surfaces",
+        "Leaves no residue on temporary installation; water and mildew resistant"
+      ],
+      "price": "₹100 / Piece",
+      "image": "/product-img/double-sided-carpet-tape.jpg",
+      "images": [
+        "/product-img/double-sided-carpet-tape.jpg"
+      ],
+      "order": 86,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "anti-skid-and-slippery-tapes",
+      "name": "Anti Skid And Slippery Tapes",
+      "category": "floor-care",
+      "blurb": "A 3M-grade, 36-grit aluminium-oxide anti-skid tape that withstands heavy foot traffic without clogging with mud, oil or grease.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "1 Roll"
+        },
+        {
+          "k": "Backing Material",
+          "v": "Aluminium Oxide coated with aggressive Solvent Acrylic / Synthetic rubber adhesive"
+        },
+        {
+          "k": "Color",
+          "v": "Mutli"
+        },
+        {
+          "k": "Brand",
+          "v": "3m"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "MOQ",
+          "v": "10 Rolls"
+        }
+      ],
+      "sizes": [
+        "25mm",
+        "50mm"
+      ],
+      "highlights": [
+        "Aggressive adhesive sticks to indoor/outdoor surfaces",
+        "Protects against slips on wet pedestrian walkways and garage surfaces",
+        "Can be spray painted while retaining its non-slip surface"
+      ],
+      "price": "₹550 / Roll",
+      "image": "/product-img/anti-skid-and-slippery-tapes-250x250.webp",
+      "images": [
+        "/product-img/anti-skid-and-slippery-tapes-250x250.webp"
+      ],
+      "order": 87,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "customized-cnc-router-foam",
+      "name": "Customized CNC Router Foam",
+      "category": "eva-foam",
+      "blurb": "CNC-routed EVA inserts cut precisely to your product profile for tool cases and kits.",
+      "specs": [
+        {
+          "k": "Process",
+          "v": "CNC routed"
+        }
+      ],
+      "sizes": [
+        "Made to order"
+      ],
+      "highlights": [
+        "Precision-cut to your product profile",
+        "Suited to tool cases and protective kits"
+      ],
+      "price": "₹100 / sq ft",
+      "image": "/product-img/customized-cnc-cutting-foam.webp",
+      "images": [
+        "/product-img/customized-cnc-cutting-foam.webp"
+      ],
+      "order": 88,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "die-cut-house-of-foam",
+      "name": "Die Cut House Of Foam",
+      "category": "eva-foam",
+      "blurb": "Die-cut EVA foam components produced to volume for consistent, repeatable parts.",
+      "specs": [
+        {
+          "k": "Process",
+          "v": "Die-cut"
+        }
+      ],
+      "sizes": [
+        "Made to order"
+      ],
+      "highlights": [
+        "Produced to volume for consistent, repeatable parts"
+      ],
+      "price": "₹100 / Piece",
+      "image": "/product-img/Die-Cut-EVA-Foam.jpg",
+      "images": [
+        "/product-img/Die-Cut-EVA-Foam.jpg"
+      ],
+      "order": 89,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "eva-foam-rolls",
+      "name": "Eva Foam Rolls",
+      "category": "eva-foam",
+      "blurb": "EVA foam supplied in rolls for lining, cushioning and fabrication.",
+      "specs": [
+        {
+          "k": "Format",
+          "v": "Roll"
+        }
+      ],
+      "sizes": [
+        "Custom width"
+      ],
+      "highlights": [
+        "Supplied in rolls for lining, cushioning and fabrication"
+      ],
+      "price": "₹70 / Meter",
+      "image": "/product-img/eva-foam-rolls.jpg",
+      "images": [
+        "/product-img/eva-foam-rolls.jpg"
+      ],
+      "order": 90,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "road-construction-ldpe-sheet",
+      "name": "Road Construction LDPE Sheet",
+      "category": "ldpe-sheet",
+      "blurb": "A black recycled LDPE flat sheet supplied for road construction curing, delivered across India at an affordable price.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "10 Kg"
+        },
+        {
+          "k": "Sheet Size",
+          "v": "10x8 m"
+        },
+        {
+          "k": "Form",
+          "v": "Flat Sheet"
+        },
+        {
+          "k": "Color",
+          "v": "Black"
+        },
+        {
+          "k": "Application",
+          "v": "Road Construction"
+        },
+        {
+          "k": "Grade",
+          "v": "Recycled"
+        },
+        {
+          "k": "Printing",
+          "v": "Plain"
+        },
+        {
+          "k": "Material",
+          "v": "LDPE"
+        }
+      ],
+      "sizes": [
+        "Custom width"
+      ],
+      "highlights": [
+        "Acts as a separation membrane preventing road layers from mixing",
+        "Moisture barrier that improves drainage and road longevity"
+      ],
+      "price": "₹115 / Kg",
+      "image": "/product-img/road-construction-ldpe-sheet.webp",
+      "images": [
+        "/product-img/road-construction-ldpe-sheet.webp"
+      ],
+      "order": 91,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "road-constructions-ldpe-pqc-sheet",
+      "name": "Road Constructions LDPE PQC Sheet",
+      "category": "ldpe-sheet",
+      "blurb": "A black recycled LDPE PQC sheet supplied in roll form for pavement quality concrete construction work.",
+      "specs": [
+        {
+          "k": "Sheet Size",
+          "v": "8x6 m"
+        },
+        {
+          "k": "Form",
+          "v": "Roll"
+        },
+        {
+          "k": "Color",
+          "v": "Black"
+        },
+        {
+          "k": "Application",
+          "v": "Construction"
+        },
+        {
+          "k": "Grade",
+          "v": "Recycled"
+        },
+        {
+          "k": "Printing",
+          "v": "Plain"
+        },
+        {
+          "k": "Material",
+          "v": "LDPE PQC"
+        }
+      ],
+      "sizes": [
+        "Custom width"
+      ],
+      "highlights": [
+        "Used for pavement quality concrete (PQC) works and barriers"
+      ],
+      "price": "₹115 / Kg",
+      "image": "/product-img/road-constructions-ldpe-pqc-sheet-250x250.webp",
+      "images": [
+        "/product-img/road-constructions-ldpe-pqc-sheet-250x250.webp"
+      ],
+      "order": 92,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "catering-table-paper-rolls",
+      "name": "Catering Table Paper Rolls",
+      "category": "corporate-event-management",
+      "blurb": "70 GSM food-grade catering table paper rolls extensively used in hotels, marriage halls and restaurants, available in various colours and sizes.",
+      "specs": [
+        {
+          "k": "Material",
+          "v": "Paper"
+        },
+        {
+          "k": "Roll Width",
+          "v": "1200 mm"
+        },
+        {
+          "k": "Roll Length",
+          "v": "50 m"
+        },
+        {
+          "k": "GSM",
+          "v": "70 GSM"
+        },
+        {
+          "k": "Pattern",
+          "v": "Plain"
+        },
+        {
+          "k": "Usage",
+          "v": "Restaurant"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Wedding events and management"
+        },
+        {
+          "k": "Color",
+          "v": "White And Printed"
+        },
+        {
+          "k": "Packaging Type",
+          "v": "Rolls"
+        }
+      ],
+      "sizes": [
+        "Custom width"
+      ],
+      "highlights": [
+        "Light weight, moist-proof with a smooth surface finish",
+        "Widely used in hotels, marriage halls and five-star restaurants"
+      ],
+      "price": "₹55 / Kg",
+      "image": "/product-img/catering-table-paper-rolls-250x250.webp",
+      "images": [
+        "/product-img/catering-table-paper-rolls-250x250.webp"
+      ],
+      "order": 93,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "epe-colour-foam-pipe-and-tubes",
+      "name": "Epe Colour Foam Pipe And Tubes",
+      "category": "corporate-event-management",
+      "blurb": "Multi-colour EPE foam tubes/pipes/sleeves mainly used for making event tunnels, plus cushioning and insulation of cylindrical objects.",
+      "specs": [
+        {
+          "k": "Inner Diameter",
+          "v": "25 x 16"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Size/Diameter",
+          "v": "1 inch"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Events"
+        },
+        {
+          "k": "Material",
+          "v": "Expanded Polyethylene (EPE) foam"
+        },
+        {
+          "k": "Color",
+          "v": "Multi Color"
+        }
+      ],
+      "sizes": [
+        "Custom"
+      ],
+      "highlights": [
+        "Excellent cushioning and shock absorption for cylindrical objects",
+        "Flexible enough to wrap different-diameter items; lightweight and eco-friendly",
+        "Used for event tunnels, pipe/rod protection and HVAC insulation"
+      ],
+      "price": "₹17 / Meter",
+      "image": "/product-img/epe-colour-foam-pipe-for-events-250x250.webp",
+      "images": [
+        "/product-img/epe-colour-foam-pipe-for-events-250x250.webp"
+      ],
+      "order": 94,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "polyester-nylon-tapes",
+      "name": "Polyester Nylon Tapes",
+      "category": "shoe-material-goods",
+      "blurb": "Superior quality black & white nylon reinforcement tapes for footwear, offering high resistance against heat and easy removal.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Roll"
+        },
+        {
+          "k": "Tape Type",
+          "v": "Adhesive"
+        },
+        {
+          "k": "Tape Width",
+          "v": "1 Inch"
+        },
+        {
+          "k": "Tape Length",
+          "v": "20 m"
+        },
+        {
+          "k": "Brand",
+          "v": "Vardhman"
+        },
+        {
+          "k": "Color",
+          "v": "Black & White"
+        }
+      ],
+      "sizes": [
+        "Custom"
+      ],
+      "highlights": [
+        "Used in packaging of products with high heat resistance",
+        "Easy to remove without damaging the surface"
+      ],
+      "price": "₹37 / Roll",
+      "image": "/product-img/polyester-nylon-tapes-250x250.webp",
+      "images": [
+        "/product-img/polyester-nylon-tapes-250x250.webp"
+      ],
+      "order": 95,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "eyelet-tape-for-shoe-reinforcement",
+      "name": "Eyelet Tape, For Shoe Reinforcement",
+      "category": "shoe-material-goods",
+      "blurb": "A grey non-woven fabric adhesive tape used in footwear and leather goods to reinforce throats, eyelets, straps and perforations.",
+      "specs": [
+        {
+          "k": "Minimum Order Quantity",
+          "v": "100 Roll"
+        },
+        {
+          "k": "Material",
+          "v": "Non Woven"
+        },
+        {
+          "k": "Color",
+          "v": "Gray"
+        },
+        {
+          "k": "Country of Origin",
+          "v": "Made in India"
+        }
+      ],
+      "sizes": [
+        "Custom"
+      ],
+      "highlights": [
+        "High tensile strength — withstands significant pulling force",
+        "Abrasion resistant and flexible enough to conform to shapes"
+      ],
+      "price": "₹60 / Roll",
+      "image": "/product-img/eyelet-tape-for-shoe-reinforcement-250x250.webp",
+      "images": [
+        "/product-img/eyelet-tape-for-shoe-reinforcement-250x250.webp"
+      ],
+      "order": 96,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "ldpe-sheets-for-road-construction",
+      "name": "Ldpe Sheets For Road Construction",
+      "category": "construction-material",
+      "blurb": "LDPE sheets offering flexibility, water resistance and cost-effectiveness in road construction, acting as a separation membrane and moisture barrier.",
+      "specs": [
+        {
+          "k": "Size(mm)",
+          "v": "1 mm"
+        },
+        {
+          "k": "Type",
+          "v": "LDPE"
+        },
+        {
+          "k": "Size",
+          "v": "20 m"
+        },
+        {
+          "k": "Usage/Application",
+          "v": "Construction"
+        }
+      ],
+      "sizes": [
+        "Custom width"
+      ],
+      "highlights": [
+        "Acts as a separation membrane preventing road layers from mixing/degrading",
+        "Reduces maintenance cost by preventing moisture-related road failure",
+        "Recyclable, chemical-resistant and easy to install"
+      ],
+      "price": "₹115 / Kg",
+      "image": "/product-img/ldpe-sheets-for-road-construction-250x250.webp",
+      "images": [
+        "/product-img/ldpe-sheets-for-road-construction-250x250.webp"
+      ],
+      "order": 97,
+      "featured": false,
+      "active": true
+    },
+    {
+      "slug": "260-ml-silicone-sealant",
+      "name": "260 ml Silicone Sealant",
+      "category": "silicone-sealant",
+      "blurb": "Neutral-cure silicone sealant for weatherproof glazing, sanitary and general sealing.",
+      "specs": [
+        {
+          "k": "Volume",
+          "v": "260 ml"
+        },
+        {
+          "k": "Cure",
+          "v": "Neutral"
+        }
+      ],
+      "sizes": [
+        "260ml cartridge"
+      ],
+      "highlights": [
+        "Suited to weatherproof glazing and sanitary sealing"
+      ],
+      "price": "₹50 / Piece",
+      "image": "/product-img/silicone-sealant-250x250.webp",
+      "images": [
+        "/product-img/silicone-sealant-250x250.webp"
+      ],
+      "order": 98,
+      "featured": false,
+      "active": true
+    }
+  ],
+  "blogs": [
+    {
+      "slug": "choosing-the-right-bopp-packaging-tape",
+      "title": "How to Choose the Right BOPP Packaging Tape for Your Dispatch Line",
+      "excerpt": "Adhesive type, film thickness and width all affect carton sealing performance. Here is a practical guide to selecting the right BOPP tape.",
+      "category": "Packaging",
+      "date": "2026-06-18",
+      "readTime": "5 min read",
+      "image": "/product-img/bopp.jpg",
+      "content": [
+        "BOPP (bi-axially oriented polypropylene) tape is the workhorse of modern dispatch operations, but not every roll is built the same. Choosing correctly means matching adhesive chemistry, film thickness and width to your cartons and throughput.",
+        "Adhesive is the first decision. Acrylic adhesives offer excellent ageing, clarity and value for general cartons, while hot-melt grades deliver higher instant tack for heavier or recycled boxes. For cold-storage dispatch, a low-temperature adhesive prevents lifting.",
+        "Film thickness typically ranges from 40 to 55 microns. Heavier cartons and export consignments benefit from thicker film that resists splitting, while lighter e-commerce parcels can run economically on thinner grades.",
+        "Finally, consider width and branding. A 48mm roll suits most cartons; wider 72mm improves seal security on heavy cases. Printed tape adds tamper-evidence and turns every parcel into brand real estate.",
+        "At Vardhman Packaging, we help you trial the right combination so your line runs faster with fewer failed seals. Reach out for a sample recommendation tailored to your cartons."
+      ],
+      "order": 0,
+      "published": true
+    },
+    {
+      "slug": "epe-vs-eva-foam-packaging",
+      "title": "EPE vs EVA Foam: Which Protective Packaging Is Right for You?",
+      "excerpt": "Both foams protect products, but their structure and cost differ. Learn when to specify EPE and when EVA is the smarter choice.",
+      "category": "Materials",
+      "date": "2026-05-30",
+      "readTime": "6 min read",
+      "image": "/product-img/eva-and-epe.webp",
+      "content": [
+        "Protective foam is central to damage-free shipping, and the two most common options — EPE and EVA — each have distinct strengths. Understanding the difference helps you protect products without over-spending.",
+        "EPE (expanded polyethylene) is lightweight, resilient and cost-effective. Its closed-cell structure absorbs shock and vibration, making it ideal for edge protection, void fill and general cushioning of furniture, appliances and electronics.",
+        "EVA foam has a finer, denser cell structure and a premium feel. It is the material of choice for CNC-routed tool-case inserts, gaskets and presentation packaging where precision and appearance matter.",
+        "Cost usually favours EPE for bulk cushioning, while EVA earns its place where fit, finish and repeatable die-cut parts are required. Many customers use both across a single product line.",
+        "We manufacture custom profiles in both materials — from EPE C-sections and pipe insulation to CNC-cut EVA inserts. Share your product dimensions and we will recommend the most economical protective solution."
+      ],
+      "order": 1,
+      "published": true
+    },
+    {
+      "slug": "reflective-tapes-road-safety",
+      "title": "The Role of Reflective Tapes in Road and Site Safety",
+      "excerpt": "Retro-reflective and barricade tapes save lives on construction sites and highways. Here is how to specify them correctly.",
+      "category": "Safety",
+      "date": "2026-05-12",
+      "readTime": "4 min read",
+      "image": "/product-img/Reflective-Tapes.webp",
+      "content": [
+        "Visibility is a frontline defence in road construction and industrial safety. Reflective and barricade tapes make hazards obvious in low light, reducing accidents for workers and the public alike.",
+        "Retro-reflective tapes bounce vehicle headlights back toward the driver, dramatically improving night-time conspicuity on barriers, cones and vehicles. Fabric reflective grades add the same benefit to safety garments.",
+        "Barricade and caution tapes work in daylight, using high-contrast colour to cordon off open trenches, wet floors and restricted zones. Durability matters — cheap tape fades and tears within days.",
+        "When specifying, match the tape to exposure: choose weather-stabilised grades for outdoor use and abrasion-resistant films for high-traffic areas.",
+        "Vardhman supplies a full range of reflective, barricade and LDPE curing products for construction sites. Talk to us about a safety package for your project."
+      ],
+      "order": 2,
+      "published": true
+    },
+    {
+      "slug": "double-sided-tapes-industrial-bonding",
+      "title": "A Practical Guide to Double-Sided Tapes for Industrial Bonding",
+      "excerpt": "From tissue carriers to high-bond acrylic foam, double-sided tapes replace screws and rivets in modern assembly.",
+      "category": "Bonding",
+      "date": "2026-04-22",
+      "readTime": "5 min read",
+      "image": "/product-img/Double-Sided-Tapes.jpg",
+      "content": [
+        "Double-sided tapes have quietly replaced mechanical fasteners across countless assemblies, offering cleaner aesthetics, faster production and better vibration damping.",
+        "Tissue-carrier tapes are ideal for lightweight mounting like POS displays and card fixing. Polyester-carrier tapes step up strength and temperature resistance for splicing and precision work.",
+        "For structural jobs — bonding automotive panels or exterior signage — acrylic foam tapes distribute stress across the joint and absorb movement, outperforming rivets in fatigue resistance.",
+        "Surface preparation is key: clean, dry and dust-free substrates ensure full adhesive contact and long-term bond strength.",
+        "Our team can match the right carrier and adhesive to your substrates and load. Request a sample to test bond performance in your own application."
+      ],
+      "order": 3,
+      "published": true
+    }
+  ],
+  "industries": [
+    {
+      "slug": "food",
+      "name": "Food & Beverage",
+      "icon": "Utensils",
+      "desc": "Food-safe tapes, catering rolls and protective packaging that keep products hygienic through processing and dispatch.",
+      "order": 0,
+      "active": true
+    },
+    {
+      "slug": "pharmaceutical",
+      "name": "Pharmaceutical",
+      "icon": "Pill",
+      "desc": "Clean, reliable sealing and protection solutions supporting compliant pharma packaging and transit.",
+      "order": 1,
+      "active": true
+    },
+    {
+      "slug": "agriculture",
+      "name": "Agriculture",
+      "icon": "Sprout",
+      "desc": "LDPE sheeting, foam and tapes for crop protection, moisture barriers and produce handling.",
+      "order": 2,
+      "active": true
+    },
+    {
+      "slug": "fmcg",
+      "name": "FMCG",
+      "icon": "ShoppingBag",
+      "desc": "High-speed carton sealing and branded printed tapes for fast-moving consumer goods.",
+      "order": 3,
+      "active": true
+    },
+    {
+      "slug": "retail",
+      "name": "Retail & E-commerce",
+      "icon": "Store",
+      "desc": "Dispatch-ready packaging tapes and protective foam for safe last-mile delivery.",
+      "order": 4,
+      "active": true
+    },
+    {
+      "slug": "chemical",
+      "name": "Chemical",
+      "icon": "FlaskConical",
+      "desc": "Chemically resistant tapes, seals and foam profiles for demanding chemical handling.",
+      "order": 5,
+      "active": true
+    },
+    {
+      "slug": "industrial",
+      "name": "Industrial & Manufacturing",
+      "icon": "Factory",
+      "desc": "Bonding, insulation and protection consumables engineered for the factory floor.",
+      "order": 6,
+      "active": true
+    },
+    {
+      "slug": "automobile",
+      "name": "Automobile",
+      "icon": "Car",
+      "desc": "PE foam, panel bonding and harness tapes built for OEM and aftermarket use.",
+      "order": 7,
+      "active": true
+    },
+    {
+      "slug": "consumer-goods",
+      "name": "Consumer Goods",
+      "icon": "Boxes",
+      "desc": "Protective EVA/EPE inserts and packaging that present products safely and premium.",
+      "order": 8,
+      "active": true
+    },
+    {
+      "slug": "construction",
+      "name": "Construction & Infrastructure",
+      "icon": "HardHat",
+      "desc": "Backer rods, sealants, reflective and curing products for civil and building works.",
+      "order": 9,
+      "active": true
+    },
+    {
+      "slug": "electrical",
+      "name": "Electrical & Electronics",
+      "icon": "Zap",
+      "desc": "Insulation tapes and anti-static foam protecting sensitive electrical assemblies.",
+      "order": 10,
+      "active": true
+    },
+    {
+      "slug": "export",
+      "name": "Export & Logistics",
+      "icon": "Ship",
+      "desc": "Robust sealing and cushioning solutions that protect consignments across long supply chains.",
+      "order": 11,
+      "active": true
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What products does Vardhman Packaging manufacture?",
+      "a": "We manufacture and supply a wide range of industrial tapes, BOPP packaging tapes, double-sided and electrical tapes, EPE and EVA foam, backer rods, LDPE sheets, reflective road safety products and specialty sealants.",
+      "order": 0,
+      "active": true
+    },
+    {
+      "q": "Do you offer customised and OEM solutions?",
+      "a": "Yes. We provide custom widths, colours, printed branding, die-cut foam inserts and CNC-routed profiles tailored to your exact specification and volume.",
+      "order": 1,
+      "active": true
+    },
+    {
+      "q": "What is the minimum order quantity?",
+      "a": "MOQs vary by product. We support both standard bulk supply and smaller trial orders for new requirements — please share your needs for exact terms.",
+      "order": 2,
+      "active": true
+    },
+    {
+      "q": "Do you supply across India and for export?",
+      "a": "Yes, we serve clients across India and support export consignments with packaging built for long-haul logistics.",
+      "order": 3,
+      "active": true
+    },
+    {
+      "q": "How can I request a quotation?",
+      "a": "Use the enquiry form on any product page or the dedicated Enquiry page. Our team responds promptly with pricing and availability.",
+      "order": 4,
+      "active": true
+    },
+    {
+      "q": "Are your products quality certified?",
+      "a": "We follow ISO-aligned quality processes with in-house inspection and testing to ensure every batch meets specification.",
+      "order": 5,
+      "active": true
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rajesh Mehta",
+      "designation": "Procurement Head, FMCG",
+      "text": "Vardhman's BOPP tapes hold up perfectly on our high-speed lines. Consistent quality and reliable delivery every single time.",
+      "rating": 5,
+      "order": 0
+    },
+    {
+      "name": "Anita Sharma",
+      "designation": "Operations, E-commerce",
+      "text": "Their EPE foam profiles cut our transit damage significantly. The custom C-sections fit our products exactly.",
+      "rating": 5,
+      "order": 1
+    },
+    {
+      "name": "Suresh Patel",
+      "designation": "Plant Manager, Automotive",
+      "text": "The panel bonding and PE foam tapes perform brilliantly under heat and vibration. A dependable long-term partner.",
+      "rating": 5,
+      "order": 2
+    }
+  ],
+  "blogCategories": [
+    "All",
+    "Packaging",
+    "Materials",
+    "Safety",
+    "Bonding"
+  ]
+}

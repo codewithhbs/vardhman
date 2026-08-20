@@ -1,10 +1,12 @@
 import Image from "next/image";
 import { ShieldCheck, Search, FlaskConical, Award, ClipboardCheck, Gauge, CheckCircle2 } from "lucide-react";
-import { company } from "@/lib/company";
+import { getCompany } from "@/lib/data";
 import PageHero from "@/components/PageHero";
 import SectionHeading from "@/components/SectionHeading";
 import Reveal from "@/components/Reveal";
 import CTASection from "@/components/CTASection";
+
+export const dynamic = "force-dynamic";
 
 export const metadata = { title: "Quality Assurance", description: "Vardhman Packaging follows ISO-aligned quality processes — raw material inspection, in-process monitoring, adhesion & dimensional testing before dispatch." };
 
@@ -15,7 +17,8 @@ const steps = [
   { icon: ClipboardCheck, t: "Final Inspection", d: "Finished rolls and sheets undergo dimensional and visual inspection before careful packing and dispatch." },
 ];
 
-export default function Quality() {
+export default async function Quality() {
+  const company = await getCompany();
   return (
     <>
       <PageHero title="Quality Assurance" subtitle="Quality is engineered into every stage of our process — from raw material to the moment your order leaves our facility." crumbs={[{ label: "Quality" }]} />
@@ -61,7 +64,7 @@ export default function Quality() {
         <div className="container-x">
           <SectionHeading center eyebrow="Certifications" title="Standards & certifications" />
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
-            {company.certificates.map((c, i) => (
+            {(company.certificates || []).map((c, i) => (
               <Reveal key={c} delay={i * 0.05}>
                 <div className="flex items-center gap-3 rounded-2xl border border-black/5 bg-white px-6 py-4 shadow-card">
                   {i % 2 === 0 ? <Award className="h-8 w-8 text-brand-orange" /> : <ShieldCheck className="h-8 w-8 text-brand-orange" />}
