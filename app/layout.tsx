@@ -3,7 +3,6 @@ import "./globals.css";
 import Loader from "@/components/Loader";
 import SiteChrome from "@/components/SiteChrome";
 import { QuoteModalProvider } from "@/components/QuoteModalContext";
-import QuotePopup from "@/components/QuotePopup";
 import { getCategories, getCompany } from "@/lib/data";
 
 export const dynamic = "force-dynamic";

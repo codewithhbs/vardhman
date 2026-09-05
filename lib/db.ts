@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const MONGODB_URI = process.env.MONGODB_URI || "mongodb://127.0.0.1:27017/vardhman";
+const MONGODB_URI = process.env.MONGODB_URI || "mongodb+srv://hbsdevelopersteam_db_user:lo1oNnVIRbBzCHLk@cluster0.mklmd92.mongodb.net/?appName=Cluster0";
 
 type Cache = { conn: typeof mongoose | null; promise: Promise<typeof mongoose> | null };
 

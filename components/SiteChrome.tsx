@@ -6,7 +6,6 @@ import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
 import CallButton from "@/components/CallButton";
 import BackToTop from "@/components/BackToTop";
-import QuotePopup from "@/components/QuotePopup";
 
 export default function SiteChrome({
   company,
@@ -32,7 +31,6 @@ export default function SiteChrome({
       <WhatsAppButton whatsapp={company.whatsapp} name={company.name} />
       <CallButton phoneRaw={company.phoneRaw} />
       <BackToTop />
-      <QuotePopup />
     </>
   );
 }

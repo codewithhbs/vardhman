@@ -6,7 +6,6 @@ import Image from "next/image";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import type { Product } from "@/lib/types";
 import { resolveImage } from "@/lib/types";
-import { useQuoteModal } from "./QuoteModalContext";
 import CertificateSlider from "./CertificateSlider";
 
 export default function HeroHome({
@@ -16,8 +15,6 @@ export default function HeroHome({
   products: Product[];
   certs: { src: string; alt: string }[];
 }) {
-  const { open: openQuote } = useQuoteModal();
-
   const slides = useMemo(() => {
     const seen = new Set<string>();
     const first: Product[] = [];
@@ -36,11 +33,6 @@ export default function HeroHome({
   const [index, setIndex] = useState(0);
   const total = slides.length;
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
-
-  useEffect(() => {
-    openQuote();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
 
   const go = (dir: 1 | -1) => {
     setIndex((i) => (i + dir + total) % total);
@@ -143,12 +135,12 @@ export default function HeroHome({
           >
             Explore All Products
           </Link>
-          <button
-            onClick={openQuote}
+          <Link
+            href="/enquiry"
             className="inline-flex items-center gap-2 border border-white/50 px-6 py-3 text-sm font-bold uppercase tracking-wide text-white transition-colors hover:border-white hover:bg-white hover:text-[#5C0A0A]"
           >
             Get a Quote
-          </button>
+          </Link>
         </div>
       </div>
     </section>
