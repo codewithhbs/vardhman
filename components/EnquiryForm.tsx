@@ -1,5 +1,6 @@
 "use client";
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 import { Send, CheckCircle2, Loader2 } from "lucide-react";
 
 type Props = {
@@ -15,6 +16,7 @@ export default function EnquiryForm({
   title,
   whatsapp,
 }: Props) {
+  const router = useRouter();
   const [status, setStatus] = useState<"idle" | "loading" | "done">("idle");
   const [form, setForm] = useState({
     name: "",
@@ -79,6 +81,7 @@ export default function EnquiryForm({
     }
 
     setStatus("done");
+    router.push("/thank-you");
   };
 
   if (status === "done") {
